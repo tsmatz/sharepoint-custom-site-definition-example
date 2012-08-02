@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature Id="dafa92a6-96d2-4b36-9e31-5a11cd7a96f4" Title="Price List" Scope="Web" Version="1.0.0.0" Hidden="FALSE" DefaultResourceFile="core" xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ElementManifests>
+    <ElementManifest Location="Price List\ListDefinition.xml" />
+    <ElementFile Location="Price List\schema.xml" />
+    <ElementFile Location="Price List\AllItems.aspx" />
+    <ElementFile Location="Price List\DispForm.aspx" />
+    <ElementFile Location="Price List\EditForm.aspx" />
+    <ElementFile Location="Price List\NewForm.aspx" />
+  </ElementManifests>
+</Feature>

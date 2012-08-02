@@ -1,0 +1,7 @@
+C:\Demo\IntegratedSiteDefinition\DemoSPWorkflowLibrary1\bin\Debug\DemoSPWorkflowLibrary1.dll
+C:\Demo\IntegratedSiteDefinition\DemoSPWorkflowLibrary1\bin\Debug\DemoSPWorkflowLibrary1.pdb
+C:\Demo\IntegratedSiteDefinition\DemoSPWorkflowLibrary1\bin\Debug\Microsoft.SharePoint.Search.dll
+C:\Demo\IntegratedSiteDefinition\DemoSPWorkflowLibrary1\bin\Debug\Microsoft.SharePoint.Search.xml
+C:\Demo\IntegratedSiteDefinition\DemoSPWorkflowLibrary1\obj\Debug\ResolveAssemblyReference.cache
+C:\Demo\IntegratedSiteDefinition\DemoSPWorkflowLibrary1\obj\Debug\DemoSPWorkflowLibrary1.dll
+C:\Demo\IntegratedSiteDefinition\DemoSPWorkflowLibrary1\obj\Debug\DemoSPWorkflowLibrary1.pdb

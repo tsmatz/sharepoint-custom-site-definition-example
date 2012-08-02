@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature Id="846331f0-518e-4d10-ad28-1ea0daa171a1" Title="Proposals" Scope="Web" Version="1.0.0.0" Hidden="FALSE" DefaultResourceFile="core" xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ElementManifests>
+    <ElementManifest Location="Proposals\ListDefinition.xml" />
+    <ElementFile Location="Proposals\schema.xml" />
+    <ElementFile Location="Proposals\AllItems.aspx" />
+    <ElementFile Location="Proposals\Combine.aspx" />
+    <ElementFile Location="Proposals\DispForm.aspx" />
+    <ElementFile Location="Proposals\EditForm.aspx" />
+    <ElementFile Location="Proposals\repair.aspx" />
+    <ElementFile Location="Proposals\Upload.aspx" />
+    <ElementFile Location="Proposals\WebFldr.aspx" />
+  </ElementManifests>
+</Feature>

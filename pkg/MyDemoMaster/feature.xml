@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature  Id="bec7f3a3-e53e-4c6e-b3d6-83604b8092bb"
+          Title="My Demo MasterPage"
+          Description="これはサイト定義ともにインストールされたデモ用のカスタムマスターページです"
+          Version="1.0.0.0"
+          Scope="Site"
+          Hidden="False"
+          DefaultResourceFile="core"
+          ImageUrl="matsulogo.gif"
+          xmlns="http://schemas.microsoft.com/sharepoint/">
+	<ElementManifests>
+		<ElementManifest Location="MyDemoMaster\ProvisionedFiles.xml" />
+	</ElementManifests>
+</Feature>

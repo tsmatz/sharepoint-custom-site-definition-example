@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements Id="d3db55a8-8564-424e-aa91-21f09368fe5d" xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ListTemplate Name="Important Documents" DisplayName="Important Documents" Description="Share a document with the team by adding it to this document library." BaseType="1" Type="101" OnQuickLaunch="TRUE" SecurityBits="11" Sequence="110" Image="/_layouts/images/itdl.gif" DocumentTemplate="101" />
+</Elements>

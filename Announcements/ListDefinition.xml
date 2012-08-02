@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements Id="e5922321-0cb3-4dad-975e-7d65dbcee1f0" xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ListTemplate Name="Announcements" DisplayName="Announcements" Description="Use the Announcements list to post messages on the home page of your site." BaseType="0" Type="104" OnQuickLaunch="TRUE" SecurityBits="11" Sequence="320" Image="/_layouts/images/itann.gif" />
+</Elements>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- _lcid="1033" _version="12.0.4407" _dal="1" -->
+<!-- _LocalBinding -->
+<Elements Id="7E989867-D053-4069-85EE-277C9755F294" xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="OSGPageLayouts" Url="_catalogs/masterpage" Path="MasterPages" RootWebOnly="TRUE">
+		<File Url="MyDemoMaster.master" Type="GhostableInLibrary" Path="">
+			<Property Name="ContentType" Value="My Demo Master Page" />
+			<Property Name="PublishingPreviewImage" Value="~SiteCollection/_catalogs/masterpage/$Resources:core,Culture;/Preview Images/MyDemoMaster.png, ~SiteCollection/_catalogs/masterpage/$Resources:core,Culture;/Preview Images/MyDemoMaster.png" />
+			<Property Name="MasterPageDescription" Value="このフィーチャーは、デモとして作成・登録したマスターです." />
+		</File>
+	</Module>
+	<Module Name="PublishingLayoutsPreviewImages" Url="_catalogs/masterpage" IncludeFolders="??-??" Path="" RootWebOnly="TRUE">
+		<File Url="MyDemoMaster.png" Name="Preview Images/MyDemoMaster.png" Type="GhostableInLibrary" Path="">
+		</File>
+	</Module>
+</Elements>

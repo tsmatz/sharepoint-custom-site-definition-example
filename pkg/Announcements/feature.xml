@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature Id="a6f8fcab-c625-4d6c-a946-4d81912315d7" Title="Announcements" Scope="Web" Version="1.0.0.0" Hidden="FALSE" DefaultResourceFile="core" xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ElementManifests>
+    <ElementManifest Location="Announcements\ListDefinition.xml" />
+    <ElementFile Location="Announcements\schema.xml" />
+    <ElementFile Location="Announcements\AllItems.aspx" />
+    <ElementFile Location="Announcements\DispForm.aspx" />
+    <ElementFile Location="Announcements\EditForm.aspx" />
+    <ElementFile Location="Announcements\NewForm.aspx" />
+  </ElementManifests>
+</Feature>

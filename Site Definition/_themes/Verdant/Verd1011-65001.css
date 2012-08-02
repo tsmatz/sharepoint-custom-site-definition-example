@@ -1,0 +1,2001 @@
+﻿table.ms-toolbar,table.ms-viewtoolbar{
+background-image:url("toolgrad_verdant.gif");
+background-color:#d5f298;
+}
+table.ms-toolbar{
+border:1px solid #8fbf28;
+}
+table.ms-viewtoolbar{
+border-top:1px solid #7caa17;
+border-bottom:1px solid #7caa17;
+}
+.ms-attachButton {
+}
+.ms-listheader{
+color:#3e5b00;
+background-image:url("listheadergrad_verdant.gif");
+}
+.ms-menutoolbar{
+border-bottom:1px solid #7caa17;
+background-color:#b8dd68;
+background-image:url("listheadergrad_verdant.gif");
+}
+.ms-menutoolbar td{
+border-top:solid 1px #eaffbc;
+border-bottom:solid 1px #d5f298;
+}
+.ms-menutoolbar td a{
+}
+.ms-menutoolbar td a:hover{
+}
+.ms-menutoolbar td{
+}
+.ms-menutoolbar td a:hover{
+}
+.ms-menubuttoninactivehover{
+}
+.ms-menubuttonactivehover{
+background-image:url("menubuttonhover_verdant.gif");
+border:solid 1px #7caa17;
+}
+td.ms-menutoolbarheader{
+color:#3e5b00;
+}
+.ms-listheaderlabel{
+color:#3e5b00;
+}
+.ms-listheaderlabel,.ms-viewselector,.ms-viewselectortext,.ms-viewselectorhover{
+}
+.ms-menutoolbar td td.ms-viewselector,.ms-menutoolbar td td.ms-viewselectorhover,.ms-toolbar td td.ms-viewselector,.ms-toolbar td td.ms-viewselectorhover,.ms-authoringcontrols td td.ms-viewselector,.ms-authoringcontrols td td.ms-viewselectorhover{
+background-image:url("selectednav_verdant.gif");
+}
+.ms-menutoolbar td td{
+}
+div.ms-viewselector,div.ms-viewselectorhover{
+background-image:url("menudarkspaced_verdant.gif");
+}
+div.ms-viewselector a{
+}
+.ms-menutoolbar td td.ms-viewselectorhover,.ms-toolbar td td.ms-viewselectorhover,.ms-authoringcontrols td td.ms-viewselectorhover{
+background-image:url("menubuttonhover_verdant.gif");
+}
+td.ms-viewselector,td.ms-viewselectorhover{
+}
+.ms-bottompaging{
+background:#e7ffb5;
+}
+.ms-bottompagingline1{
+background:#8fbf28
+}
+.ms-bottompagingline2{
+}
+.ms-bottompagingline3{
+}
+.ms-paging{
+color:#3e5b00;
+}
+.ms-bottompaging .ms-paging{
+}
+.ms-menutoolbar .ms-splitbuttondropdown{
+}
+.ms-menutoolbar .ms-splitbuttontext{
+}
+.ms-splitbutton{
+}
+.ms-splitbuttonhover{
+background-image:url("menubuttonhover_verdant.gif");
+}
+.ms-splitbuttonhover .ms-splitbuttondropdown,.ms-splitbuttonhover .ms-splitbuttontext{
+border:1px solid #7caa17;
+}
+.ms-splitbuttonhover .ms-splitbuttondropdown{
+}
+.ms-splitbuttonhover .ms-splitbuttontext{
+}
+.ms-rtetoolbarmenu {
+background-color:#a1d334;
+}
+TD.ms-rtetoolbarunsel{
+}
+TD.ms-rtetoolbarsel{
+background-image:url("rtebnsel_verdant.gif");
+}
+.ms-rtetoolbardis{
+}
+a.ms-rtetoolbardis{
+}
+TD.ms-rtetoolbarhov {
+background-image:url("rtebnhov_verdant.gif");
+}
+.ms-gridT1,.ms-propertysheet th.ms-gridT1 {
+}
+.ms-gridCol{
+}
+.ms-viewselect a:link,.ms-GRFontSize{
+}
+select{
+}
+hr{
+}
+.ms-formlabel{
+}
+.ms-formdescription A{
+}
+.ms-formvalidation{
+}
+.ms-formtable .ms-formbody .ms-formbodysurvey{
+}
+.ms-informationbar{
+}
+.ms-informationbar td{
+}
+.ms-radiotext{
+}
+.ms-radiobutton-child{
+}
+.ms-gridtext{
+}
+.ms-formbody{
+background:#e7ffb5;
+}
+.ms-formbodysurvey{
+}
+.ms-formbody FONT{
+}
+.ms-formline{
+}
+.ms-formbutton{
+background-image:url('buttongrad_verdant.gif');
+}
+.ms-formbutton a{
+}
+.ms-formbuttonwrapper{
+}
+.ms-formdescription {
+}
+.ms-formfieldcontainer {
+}
+.ms-formfieldlabelcontainer {
+}
+.ms-formfieldlabel {
+background-image:url("globgrad_verdant.gif");
+}
+.ms-formfieldlabelwrapper {
+}
+.ms-searchbox{
+border:solid 1px #7caa17;
+}
+.ms-searchform{
+}
+.ms-searchform input{
+}
+select.ms-searchbox{
+}
+.ms-searchimage{
+border:solid 1px #7caa17;
+border-left:solid 1px #b8dd68;
+background-color:#e7ffb5;
+}
+.ms-searchcorner{
+background-image:url("srchcrnr_verdant.gif");
+}
+.ms-secondary-title {
+}
+table.ms-form th{
+}
+table.ms-form td{
+}
+.ms-formrecurrence{
+}
+.ms-fileinput{
+}
+.ms-longfileinput{
+}
+.ms-long{
+}
+.ms-longer{
+}
+.ms-rtelong{
+}
+.ms-rtelonger{
+}
+.ms-input,.ms-long,.ms-rtelong,.ms-longer,.ms-rtelonger,.ms-radiotext,.ms-inputuserfield{
+}
+.ms-inputuserfield,.ms-rtelong,.ms-rtelonger{
+}
+div.ms-inputuserfield a {
+}
+div.ms-inputuserfield {
+}
+.ms-usereditor{
+}
+.ms-italic{
+}
+.ms-bold{
+}
+.ms-bannerframe,.ms-GRHeaderBackground{
+}
+.ms-banner{
+}
+.ms-banner a:link{
+}
+.ms-banner a:visited{
+}
+.ms-bannerContainer{
+background-image:url("siteTitleBKGD_verdant.gif");
+}
+.ms-globalbreadcrumb{
+background-color:#98c92e;
+}
+.ms-globalbreadcrumb,.ms-globalbreadcrumb a{
+color: #ffffff;
+}
+.ms-globalbreadcrumb a:hover{
+}
+.ms-globalleft{
+}
+.ms-globalright{
+}
+.ms-globallinks{
+}
+.ms-globallinks,.ms-globallinks a{
+}
+.ms-pagebreadcrumb{
+}
+.ms-pagebreadcrumb,.ms-pagebreadcrumb a{
+background-color:#e7ffb5;
+}
+.ms-sitetitle {
+}
+.ms-sitetitle a {
+}
+.ms-siteaction,.ms-siteaction a{
+}
+table.ms-siteaction td.ms-siteaction{
+}
+table.ms-siteaction td.ms-siteaction div{
+}
+.ms-siteactionsmenu{
+}
+.ms-siteactionsmenu div div div{
+background-image:url("siteactionsmenugrad_verdant.gif");
+border-top:1px solid #72a010;
+border-left:1px solid #72a010;
+border-right:1px solid #72a010;
+background-color:#72a010;
+}
+.ms-siteactionsmenu div div div a{
+}
+.ms-siteactionsmenu div div div.ms-siteactionsmenuhover{
+background-image:url("siteactionsmenuhovergrad_verdant.gif");
+}
+.ms-actionbar{
+border:1px solid #7caa17;
+}
+.ms-actionsep{
+border-right:1px solid #7caa17;
+}
+.ms-topnavContainer{
+border-right:solid 1px #c6e87f;
+}
+.ms-topnav{
+border:solid 1px #eaffbc;
+background-image:url("topnavunselected_verdant.gif");
+background-color:#eaffbc;
+color:#ffffff;
+}
+.ms-topnav a{
+}
+.ms-topnavselected{
+background:url("topnavselected_verdant.gif");
+border:solid 1px #eaffbc;
+background-color:#eaffbc;
+color:#ffffff;
+}
+.ms-topnavselected a{
+}
+.ms-topNavHover{
+background-image:url("topnavhover_verdant.gif");
+color:#000000;
+}
+.ms-topnav img{
+}
+.ms-topNavFlyOutsContainer {
+border:solid 1px #c6e87f;
+}
+.ms-topNavFlyOuts{
+background-color:#eaffbc;
+}
+.ms-topNavFlyOuts a{
+color:#4f7202;
+}
+.ms-topNavFlyOutsHover{
+}
+.ms-nav td,.ms-nav .ms-SPZoneLabel{
+}
+.ms-SPZoneLabel{
+}
+.ms-formula{
+}
+.ms-dtinput,.ms-dttimeinput{
+}
+.ms-dttimeinput{
+}
+.ms-nav th{
+}
+.ms-quicklaunchnavsep{
+background-color:#8fbf28;
+}
+.ms-quicklaunch table td{
+border-top:1px solid #b8dd68;
+}
+.ms-quicklaunch .ms-treeviewouter table td{
+}
+.ms-quicklaunch table.ms-navheader td,.ms-navheader2 td,.ms-quicklaunch span.ms-navheader{
+background-color:#d5f298;
+border-top:solid 1px #eaffbc;
+border-left:solid 1px #eaffbc;
+}
+.ms-quicklaunch span.ms-navheader{
+background-color:#d5f298;
+border-top:1px solid #b8dd68;
+border-left:solid 1px #eaffbc;
+border-bottom:1px solid #b8dd68;
+}
+.ms-quicklaunch table.ms-navsubmenu2 td{
+}
+.ms-quicklaunch table.ms-selectednavheader td{
+}
+.ms-quicklaunch table.ms-selectednavheader{
+}
+.ms-quicklaunch span{
+}
+.ms-quicklaunch div.ms-navsubmenu1 br{
+}
+.ms-quicklaunch table.ms-selectednav{
+background-image:url("viewselectorgrad_verdant.gif");
+}
+.ms-quicklaunch table.ms-selectednav td{
+background:transparent url("selectednavbullet_verdant.gif");
+}
+table.ms-selectednav td a.ms-selectednav{
+}
+.ms-quicklaunch table.ms-selectednavheader td{
+background-image:url("viewselectorgrad_verdant.gif");
+}
+.ms-selectednavheader a{
+}
+.ms-selectednavheader a:hover{
+}
+table.ms-navitem td,span.ms-navitem{
+background-image:url("navBullet_verdant.gif");
+background-repeat:no-repeat;
+}
+.ms-navsubmenu1{
+background-color:#eaffbc;
+}
+.ms-navsubmenu2{
+background-color:#eaffbc;
+}
+table.ms-navselected{
+}
+table.ms-navselected,span.ms-navselected{
+}
+table.ms-navselected td{
+background-image:url("navBullet_verdant.gif");
+}
+table.ms-navheader td{
+}
+.ms-navheader a,.ms-navheader2 a{
+}
+.ms-navheader a:hover,.ms-navheader2 a:hover{
+}
+.ms-navItem a{
+}
+.ms-navItem a:hover{
+}
+.ms-navheaderstatic,.ms-navitemstatic{
+}
+.ms-quicklaunchouter,ms-datepickerouter{
+border-bottom:solid 1px #8fbf28;
+border-right:solid 1px #8fbf28;
+}
+.ms-quicklaunchouter{
+}
+
+table.ms-recyclebin td{
+background-color:#eaffbc;
+}
+table.ms-recyclebin td a{
+}
+table.ms-recyclebin td a:hover{
+}
+.ms-quickLaunch{
+border:solid 1px #7caa17;
+border-bottom:solid 1px #7caa17;
+background-color:#eaffbc;
+}
+.ms-quicklaunchheader{
+background-image:url("quickLaunchHeader_verdant.gif");
+background-color:#d5f298;
+border-left:solid 1px #eaffbc;
+}
+.ms-quicklaunchheader a,.ms-unselectednav a{
+}
+.ms-quicklaunchheader a:hover{
+}
+.ms-navline{
+}
+.ms-navwatermark{
+}
+.ms-selectednav,.ms-GRSortFilter{
+}
+.ms-unselectednav{
+border:1px solid #8fbf28;
+}
+.ms-templatepickerselected,.ms-templatepickerunselected{
+}
+.ms-templatepickerunselected{
+}
+.ms-templatepickerselected{
+}
+.ms-templatepickerunselected div{
+background-image:url("templatepickerunselected_verdant.gif");
+}
+.ms-templatepickerselected div{
+background-image:url("templatepickerselected_verdant.gif");
+}
+.ms-templatepickerselected div a{
+}
+.ms-templatepickerunselected div a{
+}
+.ms-templatepicker{
+}
+.ms-lactiontable{
+}
+.ms-laction{
+background-image:url("seealsograd_verdant.gif");
+border-top:solid 1px #98c92e;
+}
+.ms-lactionheader{
+}
+.ms-lactionitem{
+}
+.ms-lactionitem a{
+}
+.ms-lactionitem a:hover{
+}
+.ms-diffselected{
+}
+.ms-diffselected table{
+}
+.ms-diffselected .ms-lactionbullet{
+}
+.ms-diffselected .ms-lactionitem{
+}
+.ms-diffselected .ms-lactionitem a{
+}
+.ms-versiondiffnum{
+}
+.ms-verticaldots{
+border-right:1px solid #a1d334;
+}
+.ms-nav{
+background-color:#a1d334;
+background-image:url("navshape_verdant.jpg");
+}
+.ms-relatedtable{
+}
+.ms-relatedheaderleftcorner{
+}
+.ms-relatedheaderrightcorner{
+}
+.ms-relatedicon{
+}
+.ms-relatedicon img{
+}
+.ms-relatedtext{
+}
+.ms-relatedtext a:visited,.ms-relatedtext a:link,.ms-relatedtext a:active{
+}
+.ms-relatedtext a:hover{
+}
+.ms-globalTitleArea{
+background-image:url("siteTitleBKGD_verdant.gif");
+}
+.ms-globalTitleAreaSeparator{
+background-image:url("siteTitleBKGD_verdant.gif");
+}
+.ms-globalTitleArea td{
+}
+.ms-titlearea{
+}
+.ms-titlearea a {
+}
+.ms-titlearea a:hover {
+}
+.ms-titlearealeft {
+background-color:#d5f298;
+}
+TD.ms-titleareaframe,Div.ms-titleareaframe,.ms-pagetitleareaframe,.ms-mwspagetitleareaframe{
+background-image:url("pageTitleBKGD_verdant.gif");
+background-color:#eaffbc;
+}
+.ms-pagetitleareaframe table{
+background-image:url("topshape_verdant.jpg");
+}
+.ms-titlearealine{
+background-color:#8fbf28;
+}
+.ms-titleareaframe table td.ms-titlearea,.ms-areaseparator table td.ms-titlearea,.ms-pagetitleareaframe table td.ms-titlearea{
+}
+.ms-mwspagetitleareaframe{
+}
+.ms-mwstitlearealine{
+background-color:#d5f298;
+}
+.ms-titleareaseparator{
+background-color:#8fbf28;
+}
+.ms-titleareaseparator div{
+background-color:#d5f298;
+border-top:1px solid #7caa17;
+}
+.ms-areaseparatorcorner{
+background-image:url("framecornergrad_verdant.gif");
+border-right:1px solid #7caa17;
+}
+td.ms-areaseparatorleft{
+background:#d5f298 url("pageTitleBKGD_verdant.gif");
+border-right:1px solid #eaffbc;
+}
+div.ms-areaseparatorleft{
+background:url("navshape_verdant.jpg");
+border-right:1px solid #7caa17;
+background-repeat:no-repeat;
+background-position:-142px 0px;
+height:100%;
+background-color:#a1d334;
+}
+div.ms-areaseparatorright{
+background:url("pagebackgrad_verdant.gif");
+background-repeat:repeat-x;
+border-left:1px solid #7caa17;
+height:100%;
+background-color:#a1d334;	
+}
+.ms-titlearearight .ms-areaseparatorright{
+background:#d5f298 url("pageTitleBKGD_verdant.gif");
+border-left:1px solid #eaffbc;
+}
+.ms-areaseparator{
+background:#eaffbc;
+border-bottom:1px solid #7caa17;
+}
+.ms-pagemargin{
+background-image:url("navshape_verdant.jpg");
+background-position:-143px 0px;
+background-color:#a1d334;
+}.ms-bodyareacell{
+}
+.ms-pagebottommargin,.ms-pagebottommarginleft,.ms-pagebottommarginright{
+background:#a1d334;
+}
+.ms-bodyareapagemargin{
+background:#a1d334;
+border-top:1px solid #7caa17;
+}
+.ms-bodyareaframe,.ms-viewareaframe{
+border-top:1px solid #7caa17;
+border-right:1px solid #7caa17;
+border-left:1px solid #7caa17;
+}
+.ms-bodyareaframe{
+}
+.ms-formareaframe{
+}
+.ms-pagetitle{
+}
+.ms-pagetitle a{
+}
+.ms-pagetitle a:hover{
+}
+.ms-pagecaption{
+}
+.ms-selected {
+background-image:url("filedialogselected_verdant.gif");
+}
+.ms-selected SPAN {
+}
+.ms-selectedtitle {
+}
+.ms-selectedtitlealternative {
+}
+.ms-unselectedtitle {
+}
+.ms-menuimagecell {
+}
+.ms-filedialog td {
+}
+.ms-descriptiontext {
+}
+.ms-webpartpagedescription {
+}
+.ms-inputformdescription {
+}
+.ms-inputformcontrols {
+}
+.ms-halfinputformcontrols {
+}
+.ms-dspadapterlist {
+}
+.ms-alerttext {
+}
+.ms-separator {
+color:#a1d334;
+}
+.ms-separator img {
+background:#a1d334;
+border-bottom:1px solid #eaffbc;
+border-right:1px solid #eaffbc;
+}
+.ms-authoringcontrols {
+background-color:#e7ffb5;
+}
+.ms-sectionheader {
+}
+.ms-linksectionheader,.ms-propertysheet th.ms-linksectionheader {
+}
+td.ms-linksectionheader,th.ms-linksectionheader {
+background-color:#e7ffb5;
+background-image:url("linksectiongrad_verdant.gif");
+border:1px solid #b8dd68;
+}
+.ms-attachUploadButtons {
+}
+.ms-sectionheader a {
+}
+.ms-sectionheader a:hover {
+}
+.ms-sectionheader a:visited {
+}
+.ms-sectionline {
+}
+.ms-sectionhighlight-top{
+}
+.ms-sectionhighlight{
+}
+.ms-sectionhighlight-line{
+}
+.ms-partline {
+background-color:#b8dd68;
+}
+.ms-propertysheet{
+}
+.ms-propertysheet th{
+}
+.ms-propertysheet a{
+}
+.ms-propertysheet a:hover{
+}
+table.ms-pageinformation,table.ms-createpageinformation{
+}
+table.ms-pageinformation{
+background-image:url("settingsgraphic_verdant.jpg");
+}
+table.ms-createpageinformation{
+background-image:url("creategraphic_verdant.jpg");
+}
+.ms-pageinformation th,.ms-createpageinformation th{
+color:#3e5b00;
+}
+.ms-pageinformation table td,.ms-createpageinformation table td{
+}
+.ms-pageinformation table th {
+}
+.ms-storMeFree{
+background-color:#c6e87f;
+}
+.ms-storMeUsed,.ms-storMeFilterBar{
+}
+.ms-storMeEstimated{
+background-color:#8fbf28;
+}
+.ms-informationtablehover{
+border:solid 1px #b8dd68;
+}
+.ms-informationtablehover td,.ms-informationtablehover th{
+background-color:#e7ffb5;
+}
+.ms-informationtablehover td{
+}
+.ms-informationtablehover th{
+}
+.ms-informationtablestatic{
+background-image:url("settingsbkg_verdant.jpg");
+}
+.ms-pageinformationheader{
+}
+.ms-itemheader a{
+}
+.ms-itemstatic{
+}
+.ms-itemhover{
+background-color:#eaffbc;
+}
+.ms-discussiontitle{
+}
+.ms-listdescription{
+border-bottom:1px solid #7caa17;
+}
+.ms-vh,.ms-vh2,.ms-vh-icon,.ms-vh-icon-empty,.ms-vhImage,.ms-vh2-nograd,.ms-vh2-nograd-icon,.ms-vh2-nofilter,.ms-vh2-nofilter-icon{
+}
+.ms-gb,.ms-gb2,.ms-gbload,.ms-vb,.ms-vb2,.ms-vb-tall,.ms-GRFont,.ms-vb-user,table.ms-disc td{
+}
+.ms-vh,.ms-vh2,.ms-vh-icon,.ms-vh-icon-empty,.ms-vhImage,.ms-gb,.ms-gb2,.ms-gbload,.ms-vb,.ms-vb2,.ms-vb-tall,.ms-GRFont,.ms-vb-user,table.ms-disc td,.ms-vh2-nofilter,.ms-vh2-nograd,.ms-vh2-nograd-icon,.ms-vh2-nofilter-icon{
+}
+.ms-vh,.ms-vh2,.ms-vh2-nofilter,.ms-vh2-nograd,.ms-vh2-nograd-icon,.ms-vh2-nofilter-icon{
+}
+.ms-vh,.ms-vh2,.ms-vh-icon,.ms-vh2-nofilter,.ms-vh2-nofilter-icon,.ms-viewheadertr .ms-vh-group,.ms-vh2-nograd,.ms-vh2-nograd-icon{
+background-image:url("viewheadergrad_verdant.gif");
+}
+.ms-vh .ms-vh{
+}
+.ms-vh2{
+}
+.ms-vh-icon,.ms-vh2-nograd-icon,.ms-vh2-nofilter-icon{
+}
+.ms-vh-icon-empty{
+}
+.ms-vh a,.ms-vh a:visited,.ms-vh2 a,.ms-vh2-nofilter a{
+}
+.ms-vh a:hover,.ms-vh2 a:hover,.ms-vh2-nofilter a:hover{
+}
+.ms-vhImage{
+}
+.ms-cbp{
+}
+.ms-standardheader{
+}
+.ms-gb{
+border-top:1px solid #7caa17;
+border-bottom:1px solid #7caa17;
+}
+.ms-gb2{
+}
+.ms-gbload{
+}
+.ms-vb,.ms-vb2,.ms-GRFont,.ms-vb-user,table.ms-disc td,.ms-vb-tall {
+}
+.ms-vb a,.ms-vb2 a,.ms-GRStatusText a,.ms-vb-user a,.ms-disc a{
+}
+.ms-vb a:hover,.ms-vb2 a:hover,.ms-vb-user a:hover,.ms-disc a:hover{
+}
+.ms-vb a:visited,.ms-vb2 a:visited,.ms-GRStatusText a:visited,.ms-vb-user a:visited,.ms-disc a:visited{
+}
+.ms-vb a:visited:hover,.ms-vb2 a:visited:hover,.ms-vb-user a:visited:hover,.ms-disc a:visited:hover{
+}
+.ms-vb-icon{
+}
+.ms-vb-icon-overlay{
+}
+.ms-vb-user{
+}
+.ms-vb-title{
+}
+.ms-vb-title td{
+}
+.ms-vb2{
+}
+.ms-vb-tall{
+}
+th .ms-vb a,th .ms-vb,.ms-vh2-nofilter a,.ms-vh2-nofilter-icon a,.ms-vh2-nofilter,.ms-vh2-nofilter-icon,th.ms-vh2-nograd,th.ms-vh2-nograd-icon{
+}
+.ms-vh2-nofilter,.ms-vh2-nofilter-icon,.ms-vh2-nograd,.ms-vh2-nograd-icon{
+}
+.ms-nlline{
+background:#c6e87f;
+}
+.ms-ppleft{
+}
+.ms-ppright{
+}
+.ms-homepagetitle{
+}
+a.ms-addnew{
+}
+td.ms-addnew{
+}
+.ms-error{
+}
+IMG.ms-button{
+}
+.ms-announcementtitle{
+}
+.ms-homepagetitle:Hover{
+}
+.ms-discussionseparator{
+}
+.ms-summarytitlebarframe{
+}
+.ms-summarytitlebar a:link{
+}
+.ms-summarytitlebar a:visited{
+}
+.ms-summarytitlebar{
+}
+.ms-summarytitlebartitle{
+}
+.ms-summarytitlebartitle:hover{
+}
+img.thumbnail{
+border:solid #8fbf28 3px;
+}
+tr.ms-imglibselectedrow,tr.ms-highlight {
+}
+.ms-imglibthumbnail {
+background-color:#d8d8d8;border:solid #8fbf28 0px;
+}
+span.thumbnail{
+}
+span.userdata{
+}
+.ms-imglibmenuarea {
+background-color:#eaffbc;
+}
+a.ms-imglibPreviewTitle {
+}
+table.ms-imglibPreviewTable {
+}
+table.ms-disc td {
+}
+.ms-disc-nopad,table tr td.ms-disc-nopad {
+}
+table tr td.ms-disc-padabove {
+}
+table.ms-disc-nopad td {
+}
+tr.ms-disc-gray td {
+}
+tr.ms-disc-gray td div {
+}
+td.ms-disc-bordered,td.ms-disc-bordered-noleft {
+}
+table tr td.ms-disc-bordered-noleft {
+}
+.UserShadedRegion {
+}
+.UserCaption {
+background-color:#d5f298;
+}
+.UserConfiguration {
+}
+.UserDottedLine {
+background-image:url("dot_verdant.gif");
+}
+.UserButton,.UserInput,.UserSelect{
+}
+.UserNotification{
+}
+.ConnectionChooseActiveTab{
+}
+.ConnectionChooseInactiveTab{
+}
+.ConnectionConfigureInactiveTab{
+}
+.ConnectionConfigureActiveTab{
+}
+.UserConnectionTop {
+}
+.UserToolBarTextArea{
+}
+.UserToolbarTextArea A:link {
+}
+.UserToolbarTextArea A:visited {
+}
+.UserToolbarTextArea A:hover {
+}
+.UserToolbarDisabledLink {
+}
+.UserToolbarImage {
+}
+.UserCaptionShadow{
+border-right:1px solid #b8dd68;
+border-left:1px solid #b8dd68;
+background-image:url("viewheadergrad_verdant.gif");
+}
+.UserGenericHeader {
+}
+.UserGeneric {
+}
+.UserGenericBody {
+}
+.UserGenericText {
+}
+.UserBackground {
+}
+.UserSectionTitle {
+}
+.UserSectionHead {
+}
+.UserSectionBody {
+}
+.UserControlGroup {
+}
+.UserSectionFooter {
+}
+.UserFooter {
+}
+.UserCommandArea {
+}
+.UserToolbar {
+background-image:url("topnavunselected_verdant.gif");
+border-bottom:1px solid #7caa17;
+}
+.UserCellHover {
+}
+.UserCellSelected {
+background-image:url("selectednav_verdant.gif");
+}
+.UserCell {
+}
+.UserGenericBulletItem {
+}
+.ms-ToolPaneFrame {
+border-top:1px solid #7caa17;
+border-right:2px solid #7caa17;
+}
+.ms-ToolPaneBody {
+}
+.ms-ToolPaneHeader {
+}
+.ms-ToolPaneBorder {
+border-right:1px solid #b8dd68;
+border-left:1px solid #b8dd68;
+}
+.ms-ToolPaneClose {
+background-image:url("topnavselected_verdant.gif");
+background-color:#86b520;
+border-top:solid 1px #e2fcab;
+border-bottom:solid 1px #8fbf28;
+}
+.ms-ToolPaneTitle {
+background-image:url("topnavselected_verdant.gif");
+border-left:solid 1px #e2fcab;
+border-top:solid 1px #e2fcab;
+border-bottom:solid 1px #8fbf28;
+background-color:#86b520;
+}
+.ms-ToolPaneFooter {
+}
+.ms-ToolPaneError {
+}
+.ms-ToolPaneInfo{
+background-color:#3e5b00;
+}
+.ms-ToolPartSpacing{
+}
+.ms-ToolStripSelected {
+background-image:url("menubuttonhover_verdant.gif");
+background-color:#b8dd68;
+border-top:solid 1px #eaffbc;
+border-bottom:solid 1px #d5f298;
+}
+.ms-ToolStrip {
+background-image:url("listheadergrad_verdant.gif");
+border-top:solid 1px #eaffbc;
+border-bottom:solid 1px #d5f298;
+background-color:#b8dd68;
+}
+.ms-TPBorder {
+}
+.ms-TPHeader {
+}
+.ms-TPTitle {
+}
+.ms-TPBody {
+}
+.ms-TPBody A:link,.ms-TPBody A:visited,.ms-TPBody A:hover {
+}
+.ms-TPCommands{
+}
+.ms-TPInput{
+}
+.ms-PropGridBuilderButton {
+background-color:#b8dd68;
+}
+.ms-BuilderBackground {
+}
+.ms-SPZone {
+}
+.ms-SPZoneSelected {
+}
+.ms-SPZoneIBar {
+}
+.ms-SPZoneLabel {
+}
+.ms-SPZoneCaption{
+}
+.ms-WPDesign{
+background-color:#b8dd68;
+}
+.ms-WPMenu{
+background-color:#b8dd68;
+}
+.ms-WPTitle {
+}
+.ms-WPTitle A:link,.ms-WPTitle A:visited {
+}
+.ms-WPTitle A:hover {
+}
+.ms-WPSelected {
+}
+.ms-WPBody {
+}
+.ms-WPBody TABLE,.ms-TPBody TABLE {
+}
+.ms-WPBody A:link,.ms-WPBody A:visited {
+}
+.ms-WPBody A:hover {
+}
+.ms-WPBody th,.ms-TPBody th {
+}
+.ms-WPBody td {
+}
+.ms-WPBody h1,.ms-TPBody h1 {
+}
+.ms-WPBody h2,.ms-TPBody h2 {
+}
+.ms-WPBody h3,.ms-TPBody h3 {
+}
+.ms-WPBody h4,.ms-TPBody h4 {
+}
+.ms-WPBody h5,.ms-TPBody h5 {
+}
+.ms-WPBody h6,.ms-TPBody h6 {
+}
+.ms-WPBorder,.ms-WPBorderBorderOnly {
+border-color:#a1d334;
+}
+.ms-WPBorder {
+}
+.ms-HoverCellInActive,.ms-SpLinkButtonInActive {
+}
+.ms-HoverCellActive,.ms-SpLinkButtonActive {
+border:#7caa17 1px solid;
+background-image:url("menubuttonhover_verdant.gif");
+}
+.ms-HoverCellActiveDark {
+}
+.ms-SpLinkButtonInActive,.ms-SpLinkButtonActive {
+}
+.ms-SpLinkButtonActive a{
+}
+.ms-SPLink {
+}
+.ms-SPLink A:link,.ms-SPLink A:visited {
+}
+.ms-SPButton {
+}
+.ms-PartSpacingVertical {
+}
+.ms-PartSpacingHorizontal {
+}
+.ms-WPHeader {
+}
+.ms-WPHeader TD{
+border-bottom:1px solid #608908;
+}
+.ms-WPEditText{
+}
+.ms-SPzone .ms-WPHeader TD,.ms-SPZoneSelected .ms-WPHeader TD{
+background-color:#eaffbc;
+background-image:url("partgrad_verdant.gif");
+}
+.ms-rtApplyBackground {
+}
+.ms-tbButtonMouseOverDown {
+}
+.ms-rtRemoveBackground {
+}
+.ms-subsmanageheader {
+}
+.ms-subsmanagecell {
+}
+.ms-ConnError {
+}
+.ms-underline {
+}
+.ms-underlineback {
+}
+.ms-back {
+}
+.ms-smallheader,th.ms-smallheader {
+}
+.ms-smallsectionline {
+}
+.ms-tabselected {
+border-color:#7caa17;
+background-image:url("selectednav_verdant.gif");
+}
+.ms-tabinactive {
+background-image:url("topnavunselected_verdant.gif");
+background-color:#e2fcab;
+border:solid 1px #c6e87f;
+}
+.ms-tabinactive a:link {
+}
+.ms-tabinactive a:hover {
+}
+.ms-tabinactive a:visited {
+}
+.ms-surveyHBar {
+}
+.ms-surveyHBarB {
+}
+.ms-surveyHBarLabel {
+}
+.ms-surveyVBar {
+}
+.ms-surveyVBarB {
+}
+.ms-surveyVBarBI {
+}
+.ms-surveyVBarS {
+}
+.ms-surveyVBarT {
+}
+.ms-surveyVBarTC {
+}
+.ms-surveyHR {
+}
+.ms-surveyTotal {
+}
+.ms-uploadborder{
+border:1px solid #8fbf28;
+}
+.ms-uploadcontrol{
+}
+.ms-spaceBetContentAndButton {
+}
+.ms-ButtonHeightWidth,.ms-NarrowButtonHeightWidth {
+}
+.ms-NarrowButtonHeightWidth {
+}
+.ms-ButtonHeightWidth2 {
+}
+.ms-SpaceBetButtons {
+}
+.ms-summarycustombody{
+}
+.ms-summarystandardbody{
+}
+.ms-stylebox{
+}
+.ms-stylelabel{
+}
+.ms-styleheader{
+}
+.ms-styleheader a:link,.ms-stylebody a:link{
+}
+.ms-styleheader a:visited,.ms-stylebody a:visited{
+}
+.ms-stylebody{
+}
+.ms-styleheader a:hover,.ms-stylebody a:hover{
+}
+.ms-alternating{
+}
+.ms-MWSSelectedInstance{
+}
+.ms-MWSInstantiated a:link,.ms-MWSInstantiated a:visited{
+}
+.ms-MWSInstantiated a:hover{
+}
+.ms-MWSUninstantiated a:link,.ms-MWSUninstantiated a:visited{
+}
+.ms-MWSUninstantiated a:hover{
+}
+.ms-entity-resolved{
+}
+.ms-entity-unresolved{
+background-image:url("squiggle_verdant.gif");
+}
+.ms-ganttTitleCell {
+border:solid 1px #d5f298;
+}
+.ms-ganttTitleHeaderCell {
+color:#608908;
+border:solid 1px #d5f298;
+}
+.ms-ganttInnerTable td {
+}
+.ms-ganttDiv {
+}
+.ms-ganttDivNotIE {
+}
+.ms-ganttOuterTable {
+}
+.ms-ganttMajorTimeUnitHeaderCell {
+border-left:solid 1px #d5f298;
+border-right:solid 1px #d5f298;
+color:#608908;
+}
+.ms-ganttDetailTimeUnitRow td {
+border:solid 1px #d5f298;
+color:#608908;
+}
+.ms-ganttWorkingDay {
+}
+.ms-ganttNonWorkingDay {
+}
+.ms-ganttToday {
+}
+.ms-ganttTransparentImage {
+}
+.ms-ganttNonTransparentImage {
+}
+.ms-dgselected {
+}
+.ms-dgselected a {
+}
+.ms-dgselected a:visited {
+}
+.ms-dgbottom {
+}
+.ms-dgadd a {
+}
+.ms-dgadd {
+border-bottom:1px solid #a1d334;
+}
+.ms-infobar{
+}
+.ms-unpublishedresource{
+}
+.ms-inconsistentresource{
+}
+.ms-annotatedanchorspacing{
+}
+.ms-consolemptablerow{
+background-color:#86b520;
+}
+.ms-consolestatus,.ms-consoleerror,.ms-consolemessage,.ms-consoletoolbar{
+}
+.ms-consoleframe,.ms-consolestatusframe{
+}
+.ms-consolestatuscell{
+background-image:url("pageTitleBKGD_verdant.gif");
+}
+.ms-consoleframe{
+border-color:#8fbf28;
+}
+.ms-consolestatusframe{
+}
+td.ms-consolestatusmajorframe,td.ms-consolestatusminorframe,td.ms-consolestatuscheckoutframe{
+}
+.ms-consolestatusmajorframe{
+background:url('cnspgrdn_verdant.gif');
+}
+.ms-consolestatusminorframe{
+background-color:#e2fcab;
+background:url('cnsugrdn_verdant.gif');
+}
+.ms-consolestatuscheckoutframe{
+background:url('cnsugrdn_verdant.gif');
+}
+.ms-consolestatusshadowframe{
+background:url('cnsshdo_verdant.gif');
+}
+.ms-consolestatusshadowframeleft{
+background:url('cnsshdol_verdant.gif');
+}
+.ms-consolestatusshadowframeright{
+background:url('cnsshdor_verdant.gif');
+}
+.ms-consolemode{
+}
+.ms-consolestatus{
+}
+.ms-consolestatus a{
+}
+.ms-consolestatus a:hover{
+}
+.ms-consolehr{
+}
+.ms-consoleerror{
+}
+.ms-consoleerror a{
+}
+.ms-consoleerror a:hover{
+}
+.ms-consolemessage{
+color:#3e5b00;
+}
+.ms-consolemessage a{
+}
+.ms-consolemessage a:hover{
+}
+.ms-consoletoolbar{
+}
+.ms-consoletoolbar a{
+}
+.ms-consoleqaback td{
+background-image:url("qarsgrd_verdant.gif");
+}
+.ms-consoleqabackhover td{
+background-image:url("qahvgrd_verdant.gif");
+}
+.ms-consoleqaemptyborderh{
+}
+.ms-consoleqaemptyborderv{
+}
+.ms-consoleqaemptycorner{
+}
+.ms-consoleqaborderh,.ms-consoleqaborderv,.ms-consoleqacorner{
+}
+.ms-consoleqaborderhhover,.ms-consoleqabordervhover,.ms-consoleqacornerhover{
+}
+.ms-consoleqaborderh{
+}
+.ms-consoleqaborderv{
+}
+.ms-consoleqacorner{
+}
+.ms-consoleqaborderhhover{
+}
+.ms-consoleqabordervhover{
+}
+.ms-consoleqacornerhover{
+}
+.ms-webpartpickerpagebackground{
+}
+.ms-webpartpickerpageinnerbackground{
+}
+.ms-webpartpickerpagetext{
+color:#4f7202;
+}
+.ms-webpartpickerpagetext a{
+}
+.ms-webpartpickerpageHeaderBorder a{
+}
+.ms-webpartpickeralign{
+}
+.ms-webpartpickerwarning{
+}
+.ms-viewtotalselect{
+}
+.hierarchy-node-partialcheck{
+}
+.ms-wikitoolbar a.ms-toolbar{
+color:#3e5b00;
+}
+.ms-wikieditouter {
+border:1px solid #72a010;
+}
+.ms-wikieditsecond {
+}
+.ms-wikieditthird {
+background:url(toolgrad_verdant.gif);
+}
+.ms-wikieditorange {
+}
+.ms-wikieditorangeinnera {
+}
+.ms-wikitoolbar a:hover.ms-toolbar {
+}
+.ms-wikicontent a{
+}
+.ms-wikicontent a.ms-wikilink {
+}
+.ms-wikicontent a.ms-missinglink {
+}
+.ms-wikicontent {
+}
+.errorinl {
+}
+.ms-diffbox{
+}
+.ms-diffdeletenostrike,.ms-diffdelete {
+}
+.ms-diffdelete {
+}
+.ms-diffinsert {
+}
+.ms-diffchange {
+}
+.ms-wikifieldheader{
+}
+ul.ms-blogAdminLinks {
+}
+ul.ms-blogAdminLinks li {
+background:transparent url(square_verdant.gif) no-repeat left top;
+}
+.ms-PostWrapper,.ms-CommentsWrapper {
+}
+.ms-PostTitle a {
+}
+.ms-PostFooter a {
+}
+.ms-PostTitle a:hover,.ms-PostFooter a:hover {
+}
+.ms-PostBody {
+}
+.ms-PostFooter {
+color:#7caa17;
+1px solid #d5f298;
+}
+h1.ms-PostDate {
+}
+h1.ms-CommentHeader {
+}
+h2.ms-CommentTitle {
+}
+.ms-blogedit {
+}
+.ms-blogrss {
+}
+.ms-commenttable{
+}
+.ms-CommentFooter a {
+}
+.ms-CommentBody {
+}
+.ms-pickerwait {
+}
+.ms-CategoryTitleCell {
+}
+.ms-CategoryTitleCell a {
+background:transparent url("navbullet_verdant.gif") no-repeat left top;
+}
+.ms-BlogEmptyListText {
+}
+.ms-BlogNavigator p.ms-descriptiontext {
+}
+
+.ms-hidden,a.ms-skip,a:hover.ms-skip,a:visited.ms-skip {
+}
+a:active.ms-skip,a:focus.ms-skip {
+}
+a.ms-acclink {
+}
+/* _lcid="1033" _version="12.0.3920"
+_LocalBinding */
+.ms-SrvMenuUI {
+}
+.ms-MenuUIPopupBody {
+}
+.ms-MenuUIPopupBody TABLE {
+}
+.ms-MenuUIPopupBody div {
+}
+.ms-MenuUI,.ms-MenuUILarge,.ms-MenuUIRtL,.ms-MenuUILargeRtL {
+}
+.ms-MenuUI,.ms-MenuUILarge {
+}
+.ms-MenuUIRtL,.ms-MenuUILargeRtL {
+}
+.ms-MenuUI {
+background-image:url("MGrad_verdant.gif");
+}
+.ms-MenuUILarge {
+background-image:url("MGradLarge_verdant.gif");
+}
+.ms-MenuUIRtL {
+background-image:url("MGradRtl_verdant.gif");
+}
+.ms-MenuUILargeRtL {
+background-image:url("MGradLargeRtl_verdant.gif");
+}
+.ms-MenuUIDisabled SPAN {
+}
+.ms-MenuUIItemTableCell,.ms-MenuUIItemTableCellCompact {
+}
+.ms-MenuUIItemTableCellCompact {
+}
+.ms-MenuUIItemTableCell A,.ms-MenuUIItemTableCellHover A,.ms-MenuUIItemTableCellCompact A,.ms-MenuUIItemTableCellCompactHover A {
+}
+.ms-menuitemdescription {
+}
+.ms-MenuUIItemTableCellHover,.ms-MenuUIItemTableCellCompactHover {
+}
+.ms-MenuUIItemTableCellCompactHover {
+}
+.ms-MenuUIItemTableHover {
+}
+.ms-MenuUIItemTableHover .ms-menuitemdescription {
+}
+.ms-MenuUIIcon,.ms-MenuUIIconRtL {
+}
+.ms-MenuUIIconLarge,.ms-MenuUIIconLargeRtl {
+}
+.ms-MenuUIIcon,.ms-MenuUIIconLarge {
+}
+.ms-MenuUIIconRtL,.ms-MenuUIIconLargeRtl {
+}
+.ms-MenuUILabel,.ms-MenuUILabelRtL,.ms-menuuilabelcompact,.ms-menuuilabelcompactRtl {
+}
+.ms-MenuUILabel {
+}
+.ms-MenuUILabelRtL {
+}
+.ms-menuuilabelcompact{
+}
+.ms-menuuilabelcompactRtl{
+}
+.ms-MenuUISubmenuArrow {
+}
+.ms-MenuUISeparator,.ms-MenuUISeparatorRtL,.ms-MenuUISeparatorLarge,.ms-MenuUISeparatorLargeRtl {
+}
+.ms-MenuUISeparator {
+}
+.ms-MenuUISeparatorRtL {
+}
+.ms-MenuUISeparatorLarge {
+}
+.ms-MenuUISeparatorLargeRtl {
+}
+.ms-MenuUICheckMark {
+background-image:url("ChkMrk_verdant.gif");
+}
+/* _lcid="1033" _version="12.0.3920"
+_LocalBinding */
+.ms-picker-table{
+}
+.ms-quicklaunch table.ms-picker-table td{
+}
+.ms-picker-header{
+background-image:url("quickLaunchHeader_verdant.gif");
+}
+.ms-picker-header table.ms-picker-table{
+}
+.ms-picker-table .ms-picker-dayheader{
+}
+.ms-picker-week{
+background-image:url("weekbox_verdant.gif");
+}
+.ms-picker-week a{
+}
+.ms-picker-weekRTL{
+background-image:url("weekbox_verdant.gif");
+}
+.ms-picker-weekRTL a{
+}
+.ms-picker-weekselected{
+}
+.ms-picker-weekselected a,.ms-picker-weekselected a:hover{
+}
+.ms-picker-weekselectedRTL{
+}
+.ms-picker-weekselectedRTL a,.ms-picker-weekselectedRTL a:hover{
+}
+.ms-picker-weekbox{
+}
+.ms-picker-weekboxRTL{
+}
+table.ms-picker-table td.ms-picker-today{
+}
+.ms-picker-table .ms-picker-dayother,.ms-picker-table .ms-picker-daycenterOn,.ms-picker-table .ms-picker-daycenter,.ms-picker-table .ms-picker-dayselected{
+}
+.ms-picker-dayother a{
+}
+.ms-picker-dayother a:hover,.ms-picker-daycenterOn a,.mspicker-daycenterOn a:hover{
+}
+.ms-picker-table .ms-picker-daycenterOn{
+}
+.ms-picker-dayselected{
+}
+.ms-quicklaunch table.ms-picker-table td.ms-picker-monthcenter{
+}
+.ms-picker-monthcenter a,.ms-picker-monthcenter a:active,.ms-picker-monthcenter a:link,.ms-picker-monthcenter a:visited,.ms-picker-monthcenter a:hover{
+}
+.ms-quicklaunch table.ms-picker-table td.ms-picker-monthcenterOn{
+background-image:url("selectednav_verdant.gif");
+}
+.ms-picker-monthcenterOn a,.ms-picker-monthcenterOn a:active,.ms-picker-monthcenterOn a:link,.ms-picker-monthcenterOn a:hover,.ms-picker-monthcenterOn a:visited{
+}
+.ms-quicklaunch table.ms-picker-table td.ms-picker-monthselected{
+background-image:url("selectednav_verdant.gif");
+}
+.ms-picker-monthselected a,.ms-picker-monthselected a:active,.ms-picker-monthselected a:link,.ms-picker-monthselected a:hover,.ms-picker-monthselected a:visited{
+}
+.ms-picker-footer{
+}
+.ms-picker-month{
+}
+.ms-picker-line{
+}
+/* _lcid="1033" _version="12.0.3920"
+_LocalBinding */
+.ms-calheader{
+background-color:#e2fcab;
+}
+.ms-cal-navselected,.ms-cal-nav{
+}
+.ms-cal-navselected a{
+}
+.ms-cal-navselected a:hover{
+}
+.ms-cal-nav a{
+}
+.ms-cal-nav a:hover{
+}
+.ms-cal-weekempty,.ms-cal-weekemptyRTL{
+background-color:#e2fcab;
+}
+.ms-cal-weekname{
+background-color:#e2fcab;
+}
+.ms-cal-weekday{
+background-color:#e2fcab;
+}
+.ms-cal-week,.ms-cal-weekB,.ms-cal-weekRTL,.ms-cal-weekRTLB{
+background-image:url("weekbox_verdant.gif");
+background-color:#c6e87f;
+border:1px solid #8fbf28;
+}
+.ms-cal-weekselected,.ms-cal-weekselectedRTL{
+border:1px solid #8fbf28;
+background-color:#e2fcab;
+}
+.ms-cal-weekselected a,.ms-cal-weekselectedRTL a{
+}
+.ms-cal-weekbox,.ms-cal-weekboxRTL{
+}
+.ms-cal-topday,.ms-cal-topdayL,.ms-cal-wtopdayL,.ms-cal-wtopday{
+background-image:url("calnumBttn_verdant.gif");
+border:solid 1px #7caa17;
+}
+.ms-cal-topdayRTL,.ms-cal-topdayRTLL,.ms-cal-wtopdayRTL,.ms-cal-wtopdayRTLL{
+background-image:url("calnumBttn_verdant.gif");
+border:solid 1px #7caa17;
+}
+.ms-cal-wtopday{
+}
+.ms-cal-wtopdayRTL{
+}
+.ms-cal-topday div,.ms-cal-topdayRTL div,.ms-cal-topdayL div,.ms-cal-topdayRTLL div,.ms-cal-wtopdayL div,.ms-cal-wtopday div,.ms-cal-wtopdayRTL div,.ms-cal-wtopdayRTLL div{
+}
+.ms-cal-wtopdayL div span,.ms-cal-wtopday div span,.ms-cal-wtopdayRTL div span,.ms-cal-wtopdayRTLL div span,.ms-cal-wtopdayoverL div span,.ms-cal-wtopdayover div span,.ms-cal-wtopdayoverRTL div span,.ms-cal-wtopdayoverRTLL div span,.ms-cal-wtopday-today div span,.ms-cal-wtopdayfocus div span,.ms-cal-wtopdayfocusL div span,.ms-cal-wtopdayfocusRTLL div span,.ms-cal-wtopdayfocusRTL div span{
+}
+.ms-cal-wtopdayL a,.ms-cal-wtopday a,.ms-cal-wtopdayRTL a,.ms-cal-wtopdayRTLL a,.ms-cal-wtopdayfocus a,.ms-cal-wtopdayfocusL a,.ms-cal-wtopdayfocusRTLL a,.ms-cal-wtopdayfocusRTL a{
+}
+.ms-cal-topday-today,.ms-cal-wtopday-today,.ms-cal-topday-todayRTL,.ms-cal-wtopday-todayRTL{
+background-image:url("calnumBttntoday_verdant.gif");
+border:solid 1px #8fbf28;
+}
+.ms-cal-topday-today div,.ms-cal-wtopday-today div,.ms-cal-topday-todayover div,.ms-cal-wtopday-todayover div,.ms-cal-topday-todayRTL div,.ms-cal-wtopday-todayRTL div,.ms-cal-topday-todayoverRTL div,.ms-cal-wtopday-todayoverRTL div{
+}
+.ms-cal-topday-todayover,.ms-cal-topday-todayoverRTL,.ms-cal-wtopday-todayover,.ms-cal-wtopday-todayoverRTL{
+border:solid 1px #8fbf28;
+}
+.ms-cal-topdayover,.ms-cal-topdayoverL,.ms-cal-wtopdayover,.ms-cal-wtopdayoverL,.ms-cal-topdayfocusover{
+background-color:#e7ffb5;
+border:solid 1px #8fbf28;
+}
+.ms-cal-topdayoverRTL,.ms-cal-topdayoverRTLL,.ms-cal-wtopdayoverRTL,.ms-cal-wtopdayoverRTLL,.ms-cal-topdayfocusoverRTL{
+background-color:#e7ffb5;
+border:solid 1px #8fbf28;
+}
+.ms-cal-topdayover div,.ms-cal-topdayoverL div,.ms-cal-topdayoverRTL div,.ms-cal-topdayoverRTLL div,.ms-cal-wtopdayover div,.ms-cal-wtopdayoverL div,.ms-cal-wtopdayoverRTL div,.ms-cal-wtopdayoverRTLL div,.ms-cal-topdayfocusover div,.ms-cal-topdayfocusoverRTL div{
+}
+.ms-cal-topdayfocus,.ms-cal-topdayfocusL,.ms-cal-topdayfocusRTL,.ms-cal-topdayfocusRTLL,.ms-cal-wtopdayfocus,.ms-cal-wtopdayfocusL,.ms-cal-wtopdayfocusRTL,.ms-cal-wtopdayfocusRTLL{
+background-image:url("calnumBttnfocus_verdant.gif");
+background-color:#b8dd68;
+border:solid 1px #8fbf28;
+}
+.ms-cal-topdayfocus div,.ms-cal-topdayfocusL div,.ms-cal-topdayfocusRTL div,.ms-cal-topdayfocusRTLL div,.ms-cal-wtopdayfocus div,.ms-cal-wtopdayfocusL div,.ms-cal-wtopdayfocusRTL div,.ms-cal-wtopdayfocusRTLL div{
+}
+.ms-cal-wtopday div img,.ms-cal-wtopdayL div img,.ms-cal-wtopdayoverL div img,.ms-cal-wtopdayover div img,.ms-cal-wtopdayRTL div img,.ms-cal-wtopdayRTLL div img,.ms-cal-wtopdayoverRTL div img,.ms-cal-wtopdayoverRTLL div img{
+}
+.ms-cal-topday a,.ms-cal-topday a:active,.ms-cal-topday a:link,.ms-cal-topday a:visited,.ms-cal-topday a:hover,
+.ms-cal-topdayL a,.ms-cal-topdayL a:active,.ms-cal-topdayL a:link,.ms-cal-topdayL a:visited,.ms-cal-topdayL a:hover,
+.ms-cal-topdayRTL a,.ms-cal-topdayRTL a:active,.ms-cal-topdayRTL a:link,.ms-cal-topdayRTL a:visited,.ms-cal-topdayRTL a:hover,
+.ms-cal-topdayRTLL a,.ms-cal-topdayRTLL a:active,.ms-cal-topdayRTLL a:link,.ms-cal-topdayRTLL a:visited,.ms-cal-topdayRTLL a:hover,
+.ms-cal-topdayselectedRTLL a,.ms-cal-topdayselectedRTLL a:active,.ms-cal-topdayselectedRTLL a:link,.ms-cal-topdayselectedRTLL a:visited,.ms-cal-topdayselectedRTLL a:hover,
+.ms-cal-topdayselectedRTL a,.ms-cal-topdayselectedRTL a:active,.ms-cal-topdayselectedRTL a:link,.ms-cal-topdayselectedRTL a:visited,.ms-cal-topdayselectedRTL a:hover,
+.ms-cal-topdayselectedL a,ms-cal-topdayselectedL a:active,ms-cal-topdayselectedL a:link,ms-cal-topdayselectedL a:visited,ms-cal-topdayselectedL a:hover,
+.ms-cal-topdayselected a,.ms-cal-topdayselected a:active,.ms-cal-topdayselected a:link,.ms-cal-topdayselected a:visited,.ms-cal-topdayselected a:hover,
+.ms-cal-topday-today a,.ms-cal-wtopday-today a,.ms-cal-topday-todayover a,.ms-cal-wtopday-todayover a,.ms-cal-topday-todayRTL a,.ms-cal-wtopday-todayRTL a,.ms-cal-topday-todayoverRTL a,.ms-cal-wtopday-todayoverRTL a,
+.ms-cal-topdayover a,.ms-cal-topdayoverL a,.ms-cal-topdayoverRTL a,.ms-cal-topdayoverRTLL a,.ms-cal-wtopdayover a,.ms-cal-wtopdayoverL a,.ms-cal-wtopdayoverRTL a,.ms-cal-wtopdayoverRTLL a,.ms-cal-topdayfocusover a,.ms-cal-topdayfocusoverRTL a,
+.ms-cal-topdayfocus a,.ms-cal-topdayfocusL a,.ms-cal-topdayfocusRTL a,.ms-cal-topdayfocusRTLL a,.ms-cal-wtopdayfocus a,.ms-cal-wtopdayfocusL a,.ms-cal-wtopdayfocusRTL a,.ms-cal-wtopdayfocusRTLL a, {
+}
+.ms-cal-nodataMid td,.ms-cal-nodataLeft td,.ms-cal-nodataLeftBtm td,.ms-cal-nodataLeftBtmRTL td,.ms-cal-nodataLeftBtm2 td,.ms-cal-nodataLeftBtmRTL2 td,.ms-cal-nodataBtm td,.ms-cal-nodataBtm2 td{
+}
+.ms-cal-nodataMid,.ms-cal-nodataLeft,.ms-cal-nodataLeftRTL,.ms-cal-nodataLeftBtm,.ms-cal-nodataLeftBtmRTL,.ms-cal-nodataLeftBtm2,.ms-cal-nodataLeftBtmRTL2,.ms-cal-nodataBtm,.ms-cal-nodataBtm2{
+border-left:1px solid #8fbf28;
+border-right:1px solid #8fbf28;
+background-color:#b8dd68;
+}
+.ms-cal-nodataLeftBtm,.ms-cal-nodataLeftBtmRTL,.ms-cal-nodataLeftBtm2,.ms-cal-nodataLeftBtmRTL2,.ms-cal-nodataBtm,.ms-cal-nodataBtm2{
+border-bottom:1px solid #8fbf28;
+}
+.ms-cal-muworkitem,.ms-cal-muworkitemRTL,.ms-cal-muworkitemRTLL{
+border-right:1px solid #8fbf28;
+}
+.ms-cal-muworkitem td,.ms-cal-muworkitemL td,.ms-cal-muworkitemRTL td,.ms-cal-muworkitemRTLL td,.ms-cal-muworkitemR td,.ms-cal-todayitem td,.ms-cal-todayitemRTL td,.ms-cal-noworkitem td,.ms-cal-workitem td,.ms-cal-noworkitemRTL td{
+}
+.ms-cal-muworkitemR{
+border-left:1px solid #8fbf28;
+border-right:1px solid #8fbf28;
+}
+.ms-cal-muworkitemL{
+border-left:1px solid #8fbf28;
+border-right:1px solid #8fbf28;
+}
+.ms-cal-workitem,.ms-cal-todayitem,.ms-cal-todayitemRTL{
+border-left:1px solid #8fbf28;
+border-right:1px solid #8fbf28;
+}
+.ms-cal-workitem2{
+border-left:1px solid #8fbf28;
+border-right:1px solid #8fbf28;
+}
+.ms-cal-workitem2B,.ms-cal-workitemRTL2B,.ms-cal-todayitem2B,.ms-cal-todayitemRTL2B{
+border-left:1px solid #8fbf28;
+border-right:1px solid #8fbf28;
+border-bottom:1px solid #8fbf28;
+}
+.ms-cal-workitemL2{
+}
+.ms-cal-workitemRTLL2{
+}
+.ms-cal-workitemL2B{
+}
+.ms-cal-workitemRTLL2B{
+}
+.ms-cal-noworkitem,.ms-cal-noworkitemL,.ms-cal-noworkitemRTL{
+border-left:1px solid #8fbf28;
+border-right:1px solid #8fbf28;
+}
+.ms-cal-noworkitemB,.ms-cal-noworkitemLB,.ms-cal-noworkitem2B,.ms-cal-noworkitemL2B,.ms-cal-noworkitemRTL2B{
+border-right:1px solid #8fbf28;
+border-left:1px solid #8fbf28;
+border-bottom:1px solid #8fbf28;
+}
+.ms-cal-monthitem{
+}
+.ms-cal-monthitem a{
+}
+.ms-cal-monthitem a:hover b{
+}
+.ms-cal-monthitem b{
+}
+.ms-cal-monthMultiDay,.ms-cal-monthMultiDay a,.ms-cal-monthMultiDay a:link,.ms-cal-monthMultiDay a:active,.ms-cal-monthMultiDay a:visited{
+}
+.ms-cal-monthMultiDay a:hover{
+}
+.ms-cal-more,.ms-cal-more a,.ms-cal-more a:link,.ms-cal-more a:active,.ms-cal-more a:visited{
+}
+.ms-cal-more a:hover{
+}
+.ms-cal-defaultbgcolor{
+background-image:url("alldayDefault_verdant.gif");
+background-color:#e2fcab;
+border:solid 1px #8fbf28;
+}
+.ms-cal-defaultbgcolorsel{
+background-image:url("alldayDefaultOver_verdant.gif");
+background-color:#eaffbc;
+border:solid 1px #8fbf28;
+}
+.ms-cal-monthAllDay{
+background-image:url("alldayDefault_verdant.gif");
+background-color:#e2fcab;
+border:solid 1px #8fbf28;
+}
+.ms-cal-defaultbgcolor a,.ms-cal-monthAllDay a{
+}
+.ms-cal-monthAllDaysel a,.ms-cal-defaultbgcolorsel a{
+}
+.ms-cal-defaultbgcolor a:hover,.ms-cal-defaultbgcolorsel a:hover{
+}
+.ms-cal-monthAllDaysel{
+background-image:url("alldayDefaultOver_verdant.gif");
+background-color:#eaffbc;
+border:solid 1px #8fbf28;
+}
+.ms-cal-time{
+border-right:1px solid #7caa17;
+background-color:#e2fcab;
+}
+.ms-cal-timeRTL{
+border-left:1px solid #7caa17;
+background-color:#e2fcab;
+}
+.ms-cal-alldayevent{
+}
+.ms-cal-alldayeventRTL{
+}
+.ms-cal-noworkhour{
+}
+.ms-cal-workhour{
+border-top:solid 1px #b8dd68;
+background-color:#e2fcab;
+}
+.ms-cal-workhourB{
+border-bottom:solid 1px #b8dd68;
+border-top:solid 1px #b8dd68;
+background-color:#e2fcab;
+}
+.ms-cal-noworkhourRTL{
+}
+.ms-cal-workhourRTL{
+border-top:solid 1px #b8dd68;
+background-color:#e2fcab;
+}
+.ms-cal-workhourRTLB{
+border-bottom:solid 1px #b8dd68;
+border-top:solid 1px #b8dd68;
+background-color:#e2fcab;
+}
+.ms-cal-noworkhourF{
+}
+.ms-cal-workhourF{
+background-color:#e2fcab;
+}
+.ms-cal-noworkhourRTLF{
+}
+.ms-cal-workhourRTLF{
+background-color:#e2fcab;
+}
+.ms-cal-upper-border{
+}
+.ms-cal-upper-borderRTL{
+}
+.ms-cal-enoworkdayF,.ms-cal-enoworkdayRTLF{
+border-top:solid 1px #b8dd68;
+}
+.ms-cal-eworkdayF,.ms-cal-eworkdayRTLF{
+border-top:solid 1px #b8dd68;
+}
+.ms-cal-workhourF,.ms-cal-workhourRTLF{
+border-top:1px solid #b8dd68;
+}
+.ms-cal-enoworkhour,.ms-cal-enoworkhourF,.ms-cal-enoworkhourRTL,.ms-cal-enoworkhourRTLF{
+}
+.ms-cal-eworkhourF .ms-cal-dayhour,.ms-cal-eworkhourF .ms-cal-dayhourF,.ms-cal-eworkhour .ms-cal-dayhourF,.ms-cal-eworkhour .ms-cal-dayhour,.ms-cal-eworkday .ms-cal-dayhour,.ms-cal-enoworkday .ms-cal-dayhour,.ms-cal-eworkday .ms-cal-dayhourF,.ms-cal-enoworkday .ms-cal-dayhourF,.ms-cal-enoworkhourF .ms-cal-dayhour,.ms-cal-enoworkhourF .ms-cal-dayhourF,.ms-cal-enoworkhour .ms-cal-dayhour,.ms-cal-enoworkhour .ms-cal-dayhourF{
+border-top:solid 1px #b8dd68;
+}
+.ms-cal-eworkhourRTLF .ms-cal-dayhourRTL,.ms-cal-eworkhourRTLF .ms-cal-dayhourRTLF,.ms-cal-eworkhourRTL .ms-cal-dayhourRTLF,.ms-cal-eworkhourRTL .ms-cal-dayhourRTL,.ms-cal-eworkdayRTL .ms-cal-dayhourRTL,.ms-cal-enoworkdayRTL .ms-cal-dayhourRTL,.ms-cal-eworkdayRTL .ms-cal-dayhourRTLF,.ms-cal-enoworkdayRTL .ms-cal-dayhourRTLF,.ms-cal-enoworkhourRTL .ms-cal-dayhourRTLF,.ms-cal-enoworkhourRTL .ms-cal-dayhourRTL,.ms-cal-enoworkhourRTLF .ms-cal-dayhourRTLF,.ms-cal-enoworkhourRTLF .ms-cal-dayhourRTL{
+border-top:solid 1px #b8dd68;
+}
+.ms-cal-eworkhourF .ms-cal-dayhalfhourF,.ms-cal-eworkhour .ms-cal-dayhalfhourF,.ms-cal-eworkhour .ms-cal-dayhalfhour,.ms-cal-eworkday .ms-cal-dayhalfhour,.ms-cal-enoworkday .ms-cal-dayhalfhour,.ms-cal-eworkday .ms-cal-dayhalfhourF,.ms-cal-enoworkday .ms-cal-dayhalfhourF,.ms-cal-enoworkhour .ms-cal-dayhalfhour,.ms-cal-enoworkhour .ms-cal-dayhalfhourF{
+border-top:solid 1px #d5f298;
+}
+.ms-cal-eworkhourRTLF .ms-cal-dayhalfhourRTLF,.ms-cal-eworkhourRTL .ms-cal-dayhalfhourRTLF,.ms-cal-eworkhourRTL .ms-cal-dayhalfhourRTL,.ms-cal-eworkdayRTL .ms-cal-dayhalfhourRTL,.ms-cal-enoworkdayRTL .ms-cal-dayhalfhourRTL,.ms-cal-eworkdayRTL .ms-cal-dayhalfhourRTLF,.ms-cal-enoworkdayRTL .ms-cal-dayhalfhourRTLF,.ms-cal-enoworkhourRTL .ms-cal-dayhalfhourRTLF,.ms-cal-enoworkhourRTLF .ms-cal-dayhalfhourRTLF,.ms-cal-enoworkhourRTL .ms-cal-dayhalfhourRTL{
+border-top:solid 1px #d5f298;
+}
+.ms-cal-enoworkhourB .ms-cal-dayhalfhour,
+.ms-cal-enoworkhourB .ms-cal-dayhour{
+border-top:solid 1px #d5f298;
+border-bottom:solid 1px #b8dd68;
+background-color:#e2fcab;
+}
+.ms-cal-enoworkhourB .ms-cal-dayhalfhourF,
+.ms-cal-enoworkhourB .ms-cal-dayhourF{
+border-top:solid 1px #d5f298;
+border-bottom:solid 1px #b8dd68;
+background-color:#e2fcab;
+border-left:solid 1px #7caa17;
+}
+.ms-cal-enoworkhourF .ms-cal-dayhour,
+.ms-cal-enoworkhourRTL .ms-cal-dayhalfhourRTLF,
+.ms-cal-enoworkhourRTLF .ms-cal-dayhalfhourRTLF,
+.ms-cal-enoworkhourRTL .ms-cal-dayhalfhourRTL,
+.ms-cal-enoworkhourRTL .ms-cal-dayhourRTLF,
+.ms-cal-enoworkhourRTL .ms-cal-dayhourRTL,
+.ms-cal-enoworkhourRTLF .ms-cal-dayhourRTLF,
+.ms-cal-enoworkhourRTLF .ms-cal-dayhourRTL,
+.ms-cal-enoworkhour .ms-cal-dayhalfhourF,
+.ms-cal-enoworkhour .ms-cal-dayhalfhour,
+.ms-cal-enoworkhour .ms-cal-dayhourF,
+.ms-cal-enoworkhour .ms-cal-dayhour
+.ms-cal-enoworkhourF .ms-cal-dayhourF,
+.ms-cal-enoworkhour,
+.ms-cal-enoworkhourRTL,
+.ms-cal-enoworkhourRTLL,
+.ms-cal-enoworkhourL,
+.ms-cal-enoworkhourF,
+.ms-cal-enoworkhourRTLF{
+background-color:#e2fcab;
+}
+.ms-cal-enoworkhourRTLB .ms-cal-dayhalfhourRTLF, .ms-cal-enoworkhourRTLB .ms-cal-dayhourRTLF {
+border-top:solid 1px #d5f298;
+border-bottom:solid 1px #b8dd68;
+background-color:#e2fcab;
+border-right:solid 1px #7caa17;
+}
+.ms-cal-enoworkhourRTLB .ms-cal-dayhalfhourRTL, .ms-cal-enoworkhourRTLB .ms-cal-dayhourRTL {
+border-top:solid 1px #d5f298;
+border-bottom:solid 1px #b8dd68;
+background-color:#e2fcab;
+}
+.ms-cal-eworkhourF .ms-cal-dayhourF,.ms-cal-eworkday .ms-cal-dayhourF,.ms-cal-enoworkday .ms-cal-dayhourF,.ms-cal-enoworkdayF .ms-cal-dayhourF,.ms-cal-eworkday .ms-cal-dayhalfhourF,.ms-cal-enoworkday .ms-cal-dayhalfhourF,.ms-cal-enoworkdayF .ms-cal-dayhalfhourF,.ms-cal-eworkdayF .ms-cal-dayhourF,.ms-cal-eworkhour .ms-cal-dayhourF,.ms-cal-eworkhour .ms-cal-dayhalfhourF{
+border-left:solid 1px #7caa17;
+}
+.ms-cal-eworkhourRTLF .ms-cal-dayhourRTLF,.ms-cal-eworkdayRTL .ms-cal-dayhourRTLF,.ms-cal-enoworkhourRTLF .ms-cal-dayhalfhourRTLF,.ms-cal-enoworkdayRTL .ms-cal-dayhourRTLF,.ms-cal-enoworkdayRTLF .ms-cal-dayhourRTLF,.ms-cal-enoworkdayRTLF .ms-cal-dayhourRTLF,.ms-cal-eworkdayRTL .ms-cal-dayhalfhourRTLF,.ms-cal-enoworkdayRTL .ms-cal-dayhalfhourRTLF,.ms-cal-enoworkdayRTLF .ms-cal-dayhalfhourRTLF,.ms-cal-enoworkdayRTLF .ms-cal-dayhalfhourRTLF,.ms-cal-eworkdayRTLF .ms-cal-dayhourRTLF,.ms-cal-eworkhourRTL .ms-cal-dayhourRTLF,.ms-cal-eworkhourRTL .ms-cal-dayhalfhourRTLF{
+border-right:solid 1px #7caa17;
+}
+.ms-cal-enoworkhourF .ms-cal-dayhourF,.ms-cal-enoworkhour .ms-cal-dayhalfhourF,.ms-cal-enoworkhour .ms-cal-dayhourF{
+border-left:solid 1px #7caa17;
+}
+.ms-cal-enoworkhourRTLF .ms-cal-dayhourRTLF,.ms-cal-enoworkhourRTL .ms-cal-dayhalfhourRTLF,.ms-cal-enoworkhourRTL .ms-cal-dayhourRTLF{
+border-right:solid 1px #7caa17;
+}
+.ms-cal-enoworkhour,.ms-cal-enoworkhourRTL,.ms-cal-enoworkhourRTLL,.ms-cal-enoworkhourL,.ms-cal-enoworkhourF,.ms-cal-enoworkhourRTLF{
+}
+.ms-cal-enoworkday,.ms-cal-enoworkdayRTL{
+}
+.ms-cal-eworkday,.ms-cal-eworkdayRTL,.ms-cal-eworkhour,.ms-cal-eworkhourRTL{
+}
+.ms-cal-eworkday .ms-cal-tdayitem td div{
+}
+.ms-cal-weekedge{
+background-color:#e2fcab;
+}
+.ms-cal-wemptycell,.ms-cal-wemptycellL{
+border-left:1px solid #7caa17;
+background-color:#b8dd68;
+}
+.ms-cal-walldayevent,.ms-cal-walldayeventL,.ms-cal-walldayeventRTL,.ms-cal-walldayeventRTLL{
+border-right:1px solid #7caa17;
+border-left:1px solid #7caa17;
+background-color:#b8dd68;
+}
+.ms-cal-walldayevent td,.ms-cal-walldayeventRTL td,.ms-cal-walldayeventL td,.ms-cal-walldayeventR td,.ms-cal-walldayeventRTLL td,.ms-cal-walldayeventRTLR td{
+}
+.ms-cal-alldayevent,.ms-cal-alldayeventL,.ms-cal-alldayeventRTL,.ms-cal-alldayeventRTLL{
+border-right:1px solid #7caa17;
+border-left:1px solid #7caa17;
+}
+.ms-cal-alldayevent td,.ms-cal-alldayeventRTL td,.ms-cal-alldayeventL td,.ms-cal-alldayeventR td,.ms-cal-alldayeventRTLL td,.ms-cal-alldayeventRTLR td{
+}
+.contR,.contB,.contL{
+}
+.ms-cal-weekitem,.ms-cal-weekitem a,.ms-cal-weekitem a:link,.ms-cal-weekitem a:active,.ms-cal-weekitem a:visited{
+}
+.ms-cal-weekitem a:hover{
+}
+.ms-cal-tweekitem{
+border:1px solid #8fbf28;
+background-image:url("alldayDefault_verdant.gif");
+background-color:#e2fcab;
+}
+.ms-cal-tweekitem td{
+}
+.ms-cal-tweekitem td div{
+}
+.ms-cal-eworkday .ms-cal-tdayitem td div{
+}
+.ms-cal-tdayitem{
+border:1px solid #8fbf28;
+background-image:url("alldayDefault_verdant.gif");
+background-color:#e2fcab;
+}
+.ms-cal-tdayitem td{
+}
+.ms-cal-tdayitem td div{
+}
+.ms-cal-eworkday .ms-cal-tdayitem td div{
+}
+.ms-cal-dayitem a{
+}
+.ms-cal-dayitem a:hover{
+}
+.ms-cal-dayitem a:hover NOBR{
+}
+.ms-cal-dayitem NOBR{
+}
+.ms-cal-gempty{
+}
+.ms-cal-navheader{
+}
+.ms-cal-nav-buttonsltr{
+color:#8fbf28;
+}
+.ms-cal-nav-buttonsRTL{
+color:#8fbf28;
+}
+.ms-cal-hidden{
+}
+

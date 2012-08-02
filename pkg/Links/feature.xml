@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature Id="03a3191f-5025-49c4-9c9f-5f37f1ad7555" Title="Links" Scope="Web" Version="1.0.0.0" Hidden="FALSE" DefaultResourceFile="core" xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ElementManifests>
+    <ElementManifest Location="Links\ListDefinition.xml" />
+    <ElementFile Location="Links\schema.xml" />
+    <ElementFile Location="Links\AllItems.aspx" />
+    <ElementFile Location="Links\DispForm.aspx" />
+    <ElementFile Location="Links\EditForm.aspx" />
+    <ElementFile Location="Links\NewForm.aspx" />
+  </ElementManifests>
+</Feature>

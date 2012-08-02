@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements Id="333cf40a-60ba-4495-bb4b-96e21d56c6c4" xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ListTemplate Name="Products" DisplayName="Products" Description="" BaseType="1" Type="109" OnQuickLaunch="TRUE" SecurityBits="11" Sequence="210" Image="/_layouts/images/itil.gif" DocumentTemplate="100" />
+</Elements>

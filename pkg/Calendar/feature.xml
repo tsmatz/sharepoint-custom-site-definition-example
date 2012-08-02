@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature Id="f00ca548-bf06-4df7-b7c1-f7cd5a332547" Title="Calendar" Scope="Web" Version="1.0.0.0" Hidden="FALSE" DefaultResourceFile="core" xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ElementManifests>
+    <ElementManifest Location="Calendar\ListDefinition.xml" />
+    <ElementFile Location="Calendar\schema.xml" />
+    <ElementFile Location="Calendar\AllItems.aspx" />
+    <ElementFile Location="Calendar\calendar.aspx" />
+    <ElementFile Location="Calendar\DispForm.aspx" />
+    <ElementFile Location="Calendar\EditForm.aspx" />
+    <ElementFile Location="Calendar\MyItems.aspx" />
+    <ElementFile Location="Calendar\NewForm.aspx" />
+  </ElementManifests>
+</Feature>

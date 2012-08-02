@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements Id="51eb4bde-6c71-4305-8055-c91aca608420" xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ListTemplate Name="Answers to Frequently Asked Questions" DisplayName="Answers to Frequently Asked Questions" Description="Use the Team Discussion list to hold newsgroup-style discussions on topics relevant to your team." BaseType="0" Type="108" OnQuickLaunch="TRUE" SecurityBits="12" Sequence="350" Image="/_layouts/images/itdisc.gif" />
+</Elements>

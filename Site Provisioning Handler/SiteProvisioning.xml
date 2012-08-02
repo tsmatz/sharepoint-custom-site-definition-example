@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<SiteSettings>
+  <ListInstances>
+    <ListInstance Id="10fefa9f-a8eb-4580-8bbf-03fa44f2ff7b" Title="Announcements" FeatureId="00bfea71-d1ce-42de-9c63-a44004ce0104" />
+    <ListInstance Id="7a21c59f-9bf7-4896-ab10-88120a87a65d" Title="Answers to Frequently Asked Questions" FeatureId="00bfea71-6a49-43fa-b535-d15c05500108" />
+    <ListInstance Id="7765db2f-d61f-4589-970f-3dd5d4b850a9" Title="Calendar" FeatureId="00bfea71-ec85-4903-972d-ebe475780106" />
+    <ListInstance Id="ee379afc-2e78-44e4-a49d-a8b9788937c9" Title="Important Documents" FeatureId="00bfea71-e717-4e80-aa17-d0c71b360101" />
+    <ListInstance Id="ef57854c-00a6-4368-bf76-2a4c8ed4608a" Title="Links" FeatureId="00bfea71-2062-426c-90bf-714c59600103" />
+    <ListInstance Id="0dc41547-2e49-446a-9e29-7df100890689" Title="Marketing Materials" FeatureId="00bfea71-e717-4e80-aa17-d0c71b360101" />
+    <ListInstance Id="37c69a63-684f-441a-8486-ff55853b74c9" Title="Master Page Gallery" FeatureId="00000000-0000-0000-0000-000000000000" />
+    <ListInstance Id="5f74429a-ffdc-46ff-b97c-ccabbcc7b6b2" Title="Price List" FeatureId="00bfea71-de22-43b2-a848-c05709900100" />
+    <ListInstance Id="8a938a5e-7876-4492-83ce-b34785abee46" Title="Products" FeatureId="00bfea71-52d4-45b3-b544-b1c71b620109" />
+    <ListInstance Id="49040e82-e899-4dbc-b1d5-802a85fc463f" Title="Proposals" FeatureId="00bfea71-e717-4e80-aa17-d0c71b360101" />
+    <ListInstance Id="f4cd4ce8-d6bf-4611-b18a-f50d35197b81" Title="Tasks" FeatureId="00bfea71-a83e-497e-9ba0-7a5c597d0107" />
+  </ListInstances>
+  <WebProperties>
+    <WebProperty Key="vti_defaultlanguage" Value="en-us" />
+    <WebProperty Key="vti_associateownergroup" Value="4" />
+    <WebProperty Key="vti_associatevisitorgroup" Value="5" />
+    <WebProperty Key="vti_usernames" Value="" />
+    <WebProperty Key="vti_showhiddenpages" Value="1" />
+    <WebProperty Key="vti_runfullrecalc" Value="1" />
+    <WebProperty Key="vti_associatemembergroup" Value="6" />
+    <WebProperty Key="vti_associategroups" Value="6;3;5;4;14;15;16;17;18;19" />
+    <WebProperty Key="vti_language" Value="1041" />
+    <WebProperty Key="vti_approvallevels" Value="承認済み 却下 レビューの承認待ち Approved Rejected Pending\ Review" />
+    <WebProperty Key="vti_doclibwebviewenabled" Value="1" />
+    <WebProperty Key="vti_themedefault" Value="Verdant 1011" />
+    <WebProperty Key="vti_categories" Value="Business Competition Expense\ Report Goals/Objectives Ideas In\ Process Miscellaneous Planning Schedule Travel VIP Waiting アイデア ゴール/目標 スケジュール その他 ビジネス プラン 出張 準備中 競合製品 経費報告 進行中" />
+    <WebProperty Key="vti_extenderversion" Value="12.0.0.4518" />
+    <WebProperty Key="vti_scnoprompt" Value="1" />
+    <WebProperty Key="vti_webtemplate" Value="1" />
+    <WebProperty Key="vti_toolpaneurl" Value="http://guygilbert.members.winisp.net/contoso/_layouts/toolpane.aspx" />
+  </WebProperties>
+  <CustomizedCssFiles>
+    <CustomizedCssFile Name="Verd1011-65001.css" />
+  </CustomizedCssFiles>
+</SiteSettings>

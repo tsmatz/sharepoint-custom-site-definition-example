@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements Id="c3cf1a41-fb21-4674-8ddf-f3b9bbd005e9" xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ListTemplate Name="Links" DisplayName="Links" Description="Use the Links list for links to Web pages that your team members will find interesting or useful." BaseType="0" Type="103" OnQuickLaunch="TRUE" SecurityBits="11" Sequence="310" Image="/_layouts/images/itlink.gif" />
+</Elements>

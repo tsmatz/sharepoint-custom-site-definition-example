@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements Id="3b983c77-eaf5-4b55-aaf1-ff0e4d64107d" xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ListTemplate Name="Price List" DisplayName="Price List" Description="" BaseType="0" Type="100" OnQuickLaunch="TRUE" SecurityBits="11" Sequence="410" Image="/_layouts/images/itgen.gif" />
+</Elements>

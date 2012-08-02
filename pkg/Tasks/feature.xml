@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature Id="6913d2a7-edfd-4fb6-867f-51dcf5150230" Title="Tasks" Scope="Web" Version="1.0.0.0" Hidden="FALSE" DefaultResourceFile="core" xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ElementManifests>
+    <ElementManifest Location="Tasks\ListDefinition.xml" />
+    <ElementFile Location="Tasks\schema.xml" />
+    <ElementFile Location="Tasks\active.aspx" />
+    <ElementFile Location="Tasks\AllItems.aspx" />
+    <ElementFile Location="Tasks\byowner.aspx" />
+    <ElementFile Location="Tasks\DispForm.aspx" />
+    <ElementFile Location="Tasks\duetoday.aspx" />
+    <ElementFile Location="Tasks\EditForm.aspx" />
+    <ElementFile Location="Tasks\MyGrTsks.aspx" />
+    <ElementFile Location="Tasks\MyItems.aspx" />
+    <ElementFile Location="Tasks\NewForm.aspx" />
+  </ElementManifests>
+</Feature>

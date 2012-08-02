@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature Id="05a61600-0d2e-4e1d-8da3-a576871e2078" Title="Products" Scope="Web" Version="1.0.0.0" Hidden="FALSE" DefaultResourceFile="core" xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ElementManifests>
+    <ElementManifest Location="Products\ListDefinition.xml" />
+    <ElementFile Location="Products\schema.xml" />
+    <ElementFile Location="Products\AllItems.aspx" />
+    <ElementFile Location="Products\DispForm.aspx" />
+    <ElementFile Location="Products\EditForm.aspx" />
+    <ElementFile Location="Products\Selected.aspx" />
+    <ElementFile Location="Products\Slidshow.aspx" />
+    <ElementFile Location="Products\Upload.aspx" />
+    <ElementFile Location="Products\WebFldr.aspx" />
+  </ElementManifests>
+</Feature>

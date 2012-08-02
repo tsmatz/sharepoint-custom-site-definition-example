@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature Id="8c7cbe8c-53f1-47b9-a954-5cd754a34f87" Title="Important Documents" Scope="Web" Version="1.0.0.0" Hidden="FALSE" DefaultResourceFile="core" xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ElementManifests>
+    <ElementManifest Location="Important Documents\ListDefinition.xml" />
+    <ElementFile Location="Important Documents\schema.xml" />
+    <ElementFile Location="Important Documents\AllItems.aspx" />
+    <ElementFile Location="Important Documents\Combine.aspx" />
+    <ElementFile Location="Important Documents\DispForm.aspx" />
+    <ElementFile Location="Important Documents\EditForm.aspx" />
+    <ElementFile Location="Important Documents\repair.aspx" />
+    <ElementFile Location="Important Documents\Upload.aspx" />
+    <ElementFile Location="Important Documents\WebFldr.aspx" />
+  </ElementManifests>
+</Feature>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements Id="a944c30c-3b7b-4f31-a756-65bae1d79341" xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ListTemplate Name="Tasks" DisplayName="Tasks" Description="Use the Tasks list to keep track of work that you or your team needs to complete." BaseType="0" Type="107" OnQuickLaunch="TRUE" SecurityBits="11" Sequence="360" Image="/_layouts/images/ittask.gif" />
+</Elements>

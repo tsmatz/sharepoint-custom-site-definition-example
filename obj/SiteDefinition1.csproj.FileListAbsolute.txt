@@ -1,0 +1,7 @@
+C:\Demo\IntegratedSiteDefinition\bin\Debug\SiteDefinition1.dll
+C:\Demo\IntegratedSiteDefinition\bin\Debug\SiteDefinition1.pdb
+C:\Demo\IntegratedSiteDefinition\bin\Debug\Microsoft.SharePoint.Search.dll
+C:\Demo\IntegratedSiteDefinition\bin\Debug\Microsoft.SharePoint.Search.xml
+C:\Demo\IntegratedSiteDefinition\obj\Debug\ResolveAssemblyReference.cache
+C:\Demo\IntegratedSiteDefinition\obj\Debug\SiteDefinition1.dll
+C:\Demo\IntegratedSiteDefinition\obj\Debug\SiteDefinition1.pdb

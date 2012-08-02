@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Templates>
+	<Template Name="SiteDefinition1" ID="10001">
+		<Configuration ID="0" Title="松グループウェア (デモ)" Description="" Hidden="FALSE" ImageUrl="/_layouts/1041/images/MyDemo.png" DisplayCategory="松株式会社" />
+	</Template>
+</Templates>

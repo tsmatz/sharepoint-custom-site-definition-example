@@ -1,0 +1,14 @@
+<!-- _lcid="1033" _version="12.0.4518" _dal="1" -->
+<!-- _LocalBinding -->
+<Feature  Id="78877B36-5F6D-4e27-81ED-DBAD06528AC4"
+          Title="My Demo MasterPage"
+          Description="This is a demo of the custom master page feature"
+          Version="12.0.0.0"
+          Scope="Site"
+          Hidden="False"
+          DefaultResourceFile="core"
+          xmlns="http://schemas.microsoft.com/sharepoint/">
+    <ElementManifests>
+        <ElementManifest Location="ProvisionedFiles.xml"/>
+    </ElementManifests>
+</Feature>

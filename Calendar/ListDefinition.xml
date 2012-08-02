@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements Id="f3cf0478-d275-4f07-8c38-8887b7899965" xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ListTemplate Name="Calendar" DisplayName="Calendar" Description="Use the Calendar list to keep informed of upcoming meetings, deadlines, and other important events." BaseType="0" Type="106" OnQuickLaunch="TRUE" SecurityBits="11" Sequence="340" Image="/_layouts/images/itevent.gif" />
+</Elements>

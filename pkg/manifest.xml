@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution SolutionId="c4704e31-522b-4592-8af6-5a9aeaac1307" xmlns="http://schemas.microsoft.com/sharepoint/">
+  <FeatureManifests>
+    <FeatureManifest Location="Announcements\feature.xml" />
+    <FeatureManifest Location="Answers to Frequently Asked Questions\feature.xml" />
+    <FeatureManifest Location="Calendar\feature.xml" />
+    <FeatureManifest Location="DemoSPWorkflowLibrary1\feature.xml" />
+    <FeatureManifest Location="Important Documents\feature.xml" />
+    <FeatureManifest Location="Links\feature.xml" />
+    <FeatureManifest Location="Marketing Materials\feature.xml" />
+    <FeatureManifest Location="Price List\feature.xml" />
+    <FeatureManifest Location="Products\feature.xml" />
+    <FeatureManifest Location="Proposals\feature.xml" />
+    <FeatureManifest Location="Tasks\feature.xml" />
+    <FeatureManifest Location="MyDemoMaster\feature.xml" />
+  </FeatureManifests>
+  <SiteDefinitionManifests>
+    <SiteDefinitionManifest Location="SiteDefinition1">
+      <WebTempFile Location="1041\xml\webtempSiteDefinition1.xml" />
+    </SiteDefinitionManifest>
+  </SiteDefinitionManifests>
+  <Assemblies>
+    <Assembly Location="SiteDefinition1.dll" DeploymentTarget="GlobalAssemblyCache" />
+    <Assembly Location="DemoSPWorkflowLibrary1.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="FEATURES\DemoSPWorkflowLibrary1\Demo1InitForm.xsn" />
+    <TemplateFile Location="FEATURES\DemoSPWorkflowLibrary1\Demo1TaskForm.xsn" />
+    <TemplateFile Location="FEATURES\MyDemoMaster\ja-jp\MyDemoMaster.png" />
+    <TemplateFile Location="FEATURES\MyDemoMaster\MasterPages\MyDemoMaster.master" />
+    <TemplateFile Location="IMAGES\Contoso logo.jpg" />
+    <TemplateFile Location="IMAGES\matsulogo.gif" />
+    <TemplateFile Location="LAYOUTS\1041\IMAGES\my_demo_logo.gif" />
+    <TemplateFile Location="LAYOUTS\1041\IMAGES\MyDemo.png" />
+    <TemplateFile Location="LAYOUTS\1041\STYLES\MyDemo.css" />
+  </TemplateFiles>
+</Solution>

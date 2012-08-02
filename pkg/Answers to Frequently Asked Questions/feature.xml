@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature Id="30439320-d87f-4cf2-8423-2e10c67cbfca" Title="Answers to Frequently Asked Questions" Scope="Web" Version="1.0.0.0" Hidden="FALSE" DefaultResourceFile="core" xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ElementManifests>
+    <ElementManifest Location="Answers to Frequently Asked Questions\ListDefinition.xml" />
+    <ElementFile Location="Answers to Frequently Asked Questions\schema.xml" />
+    <ElementFile Location="Answers to Frequently Asked Questions\AllItems.aspx" />
+    <ElementFile Location="Answers to Frequently Asked Questions\DispForm.aspx" />
+    <ElementFile Location="Answers to Frequently Asked Questions\EditForm.aspx" />
+    <ElementFile Location="Answers to Frequently Asked Questions\Flat.aspx" />
+    <ElementFile Location="Answers to Frequently Asked Questions\NewForm.aspx" />
+    <ElementFile Location="Answers to Frequently Asked Questions\Threaded.aspx" />
+  </ElementManifests>
+</Feature>

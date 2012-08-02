@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature Id="2b2f342a-6f71-44fd-a9c0-84a13ceb2c55" Title="Marketing Materials" Scope="Web" Version="1.0.0.0" Hidden="FALSE" DefaultResourceFile="core" xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ElementManifests>
+    <ElementManifest Location="Marketing Materials\ListDefinition.xml" />
+    <ElementFile Location="Marketing Materials\schema.xml" />
+    <ElementFile Location="Marketing Materials\AllItems.aspx" />
+    <ElementFile Location="Marketing Materials\Combine.aspx" />
+    <ElementFile Location="Marketing Materials\DispForm.aspx" />
+    <ElementFile Location="Marketing Materials\EditForm.aspx" />
+    <ElementFile Location="Marketing Materials\repair.aspx" />
+    <ElementFile Location="Marketing Materials\Upload.aspx" />
+    <ElementFile Location="Marketing Materials\WebFldr.aspx" />
+  </ElementManifests>
+</Feature>

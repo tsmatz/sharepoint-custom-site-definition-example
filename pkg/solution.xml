@@ -1,0 +1,67 @@
+﻿<solution id="c4704e31-522b-4592-8af6-5a9aeaac1307" name="SiteDefinition1">
+  <features>
+    <feature id="a6f8fcab-c625-4d6c-a946-4d81912315d7">
+      <featureElements>
+        <featureElement id="e5922321-0cb3-4dad-975e-7d65dbcee1f0" name="Announcements" />
+      </featureElements>
+    </feature>
+    <feature id="30439320-d87f-4cf2-8423-2e10c67cbfca">
+      <featureElements>
+        <featureElement id="51eb4bde-6c71-4305-8055-c91aca608420" name="Answers to Frequently Asked Questions" />
+      </featureElements>
+    </feature>
+    <feature id="f00ca548-bf06-4df7-b7c1-f7cd5a332547">
+      <featureElements>
+        <featureElement id="f3cf0478-d275-4f07-8c38-8887b7899965" name="Calendar" />
+      </featureElements>
+    </feature>
+    <feature id="f8222634-f70a-401c-a39f-5911fb2b3e78">
+      <featureElements>
+        <featureElement id="db1e94a4-c9ee-4018-8966-db54733a9662" name="DemoSPWorkflowLibrary1" />
+      </featureElements>
+    </feature>
+    <feature id="8c7cbe8c-53f1-47b9-a954-5cd754a34f87">
+      <featureElements>
+        <featureElement id="d3db55a8-8564-424e-aa91-21f09368fe5d" name="Important Documents" />
+      </featureElements>
+    </feature>
+    <feature id="03a3191f-5025-49c4-9c9f-5f37f1ad7555">
+      <featureElements>
+        <featureElement id="c3cf1a41-fb21-4674-8ddf-f3b9bbd005e9" name="Links" />
+      </featureElements>
+    </feature>
+    <feature id="2b2f342a-6f71-44fd-a9c0-84a13ceb2c55">
+      <featureElements>
+        <featureElement id="8847f592-0e33-405a-8737-c3e3cfa56916" name="Marketing Materials" />
+      </featureElements>
+    </feature>
+    <feature id="dafa92a6-96d2-4b36-9e31-5a11cd7a96f4">
+      <featureElements>
+        <featureElement id="3b983c77-eaf5-4b55-aaf1-ff0e4d64107d" name="Price List" />
+      </featureElements>
+    </feature>
+    <feature id="05a61600-0d2e-4e1d-8da3-a576871e2078">
+      <featureElements>
+        <featureElement id="333cf40a-60ba-4495-bb4b-96e21d56c6c4" name="Products" />
+      </featureElements>
+    </feature>
+    <feature id="846331f0-518e-4d10-ad28-1ea0daa171a1">
+      <featureElements>
+        <featureElement id="69ca782d-cb7e-47a9-88b5-ca40a4ccfac7" name="Proposals" />
+      </featureElements>
+    </feature>
+    <feature id="6913d2a7-edfd-4fb6-867f-51dcf5150230">
+      <featureElements>
+        <featureElement id="a944c30c-3b7b-4f31-a756-65bae1d79341" name="Tasks" />
+      </featureElements>
+    </feature>
+    <feature id="bec7f3a3-e53e-4c6e-b3d6-83604b8092bb">
+      <featureElements>
+        <featureElement id="7e989867-d053-4069-85ee-277c9755f294" name="MyDemoMaster" />
+      </featureElements>
+    </feature>
+  </features>
+  <sitedefinitions>
+    <sitedefinition id="f20c9727-e668-461b-9495-3fb099763037"/>
+  </sitedefinitions>
+</solution>

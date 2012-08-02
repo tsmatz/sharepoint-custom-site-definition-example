@@ -1,0 +1,211 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2A55E85E-3D21-446D-9EA9-753E06E4C6FB}</ProjectGuid>
+    <ProjectTypeGuids>{593B0543-81F6-4436-BA1E-4747859CAAE2};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>Library</OutputType>
+    <RootNamespace>SiteDefinition1</RootNamespace>
+    <AssemblyName>SiteDefinition1</AssemblyName>
+    <SignAssembly>true</SignAssembly>
+    <DelaySign>false</DelaySign>
+    <AssemblyOriginatorKeyFile>Properties\Temporary.snk</AssemblyOriginatorKeyFile>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <StartAction>URL</StartAction>
+    <StartURL>http://localhost/</StartURL>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <StartAction>URL</StartAction>
+    <StartURL>http://localhost/</StartURL>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.XML" />
+    <Reference Include="Microsoft.SharePoint" />
+    <Reference Include="Microsoft.SharePoint.Security" />
+    <Content Include="Announcements\AllItems.aspx" />
+    <Content Include="Announcements\DispForm.aspx" />
+    <Content Include="Announcements\EditForm.aspx" />
+    <Content Include="Announcements\ListDefinition.xml" />
+    <Content Include="Announcements\NewForm.aspx" />
+    <Content Include="Announcements\schema.xml" />
+    <Content Include="Answers to Frequently Asked Questions\AllItems.aspx" />
+    <Content Include="Answers to Frequently Asked Questions\DispForm.aspx" />
+    <Content Include="Answers to Frequently Asked Questions\EditForm.aspx" />
+    <Content Include="Answers to Frequently Asked Questions\Flat.aspx" />
+    <Content Include="Answers to Frequently Asked Questions\ListDefinition.xml" />
+    <Content Include="Answers to Frequently Asked Questions\NewForm.aspx" />
+    <Content Include="Answers to Frequently Asked Questions\schema.xml" />
+    <Content Include="Answers to Frequently Asked Questions\Threaded.aspx" />
+    <Content Include="Calendar\AllItems.aspx" />
+    <Content Include="Calendar\calendar.aspx" />
+    <Content Include="Calendar\DispForm.aspx" />
+    <Content Include="Calendar\EditForm.aspx" />
+    <Content Include="Calendar\ListDefinition.xml" />
+    <Content Include="Calendar\MyItems.aspx" />
+    <Content Include="Calendar\NewForm.aspx" />
+    <Content Include="Calendar\schema.xml" />
+    <Content Include="DemoSPWorkflowLibrary1\bin\Debug\DemoSPWorkflowLibrary1.dll" />
+    <Content Include="DemoSPWorkflowLibrary1\workflow.xml" />
+    <Content Include="Important Documents\AllItems.aspx" />
+    <Content Include="Important Documents\Combine.aspx" />
+    <Content Include="Important Documents\DispForm.aspx" />
+    <Content Include="Important Documents\EditForm.aspx" />
+    <Content Include="Important Documents\ListDefinition.xml" />
+    <Content Include="Important Documents\repair.aspx" />
+    <Content Include="Important Documents\schema.xml" />
+    <Content Include="Important Documents\template.doc" />
+    <Content Include="Important Documents\Upload.aspx" />
+    <Content Include="Important Documents\WebFldr.aspx" />
+    <Content Include="Links\AllItems.aspx" />
+    <Content Include="Links\DispForm.aspx" />
+    <Content Include="Links\EditForm.aspx" />
+    <Content Include="Links\ListDefinition.xml" />
+    <Content Include="Links\NewForm.aspx" />
+    <Content Include="Links\schema.xml" />
+    <Content Include="Marketing Materials\AllItems.aspx" />
+    <Content Include="Marketing Materials\Combine.aspx" />
+    <Content Include="Marketing Materials\DispForm.aspx" />
+    <Content Include="Marketing Materials\EditForm.aspx" />
+    <Content Include="Marketing Materials\ListDefinition.xml" />
+    <Content Include="Marketing Materials\repair.aspx" />
+    <Content Include="Marketing Materials\schema.xml" />
+    <Content Include="Marketing Materials\template.doc" />
+    <Content Include="Marketing Materials\Upload.aspx" />
+    <Content Include="Marketing Materials\WebFldr.aspx" />
+    <Content Include="MyDemoMaster\ProvisionedFiles.xml" />
+    <Content Include="Price List\AllItems.aspx" />
+    <Content Include="Price List\DispForm.aspx" />
+    <Content Include="Price List\EditForm.aspx" />
+    <Content Include="Price List\ListDefinition.xml" />
+    <Content Include="Price List\NewForm.aspx" />
+    <Content Include="Price List\schema.xml" />
+    <Content Include="Products\AllItems.aspx" />
+    <Content Include="Products\DispForm.aspx" />
+    <Content Include="Products\EditForm.aspx" />
+    <Content Include="Products\ListDefinition.xml" />
+    <Content Include="Products\schema.xml" />
+    <Content Include="Products\Selected.aspx" />
+    <Content Include="Products\Slidshow.aspx" />
+    <Content Include="Products\Upload.aspx" />
+    <Content Include="Products\WebFldr.aspx" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <None Include="Properties\Temporary.snk" />
+    <None Include="Templates\FEATURES\DemoSPWorkflowLibrary1\Demo1InitForm.xsn" />
+    <None Include="Templates\FEATURES\DemoSPWorkflowLibrary1\Demo1TaskForm.xsn" />
+    <None Include="Templates\FEATURES\MyDemoMaster\MasterPages\MyDemoMaster.master" />
+    <Content Include="Proposals\AllItems.aspx" />
+    <Content Include="Proposals\Combine.aspx" />
+    <Content Include="Proposals\DispForm.aspx" />
+    <Content Include="Proposals\EditForm.aspx" />
+    <Content Include="Proposals\ListDefinition.xml" />
+    <Content Include="Proposals\repair.aspx" />
+    <Content Include="Proposals\schema.xml" />
+    <Content Include="Proposals\template.doc" />
+    <Content Include="Proposals\Upload.aspx" />
+    <Content Include="Proposals\WebFldr.aspx" />
+    <Content Include="Site Definition\_themes\Verdant\alldaydefaultover_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\alldaydefault_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\calnumbttnfocus_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\calnumbttntoday_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\calnumbttn_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\cnspgrdn_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\cnsugrdn_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\creategraphic_verdant.jpg" />
+    <Content Include="Site Definition\_themes\Verdant\filedialogselected_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\formtitlegrad_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\linksectiongrad_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\listheadergrad_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\menubuttonhover_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\mgradlargertl_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\mgradlarge_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\mgradrtl_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\mgrad_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\navbullet_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\navshape_verdant.jpg" />
+    <Content Include="Site Definition\_themes\Verdant\pagebackgrad_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\pagetitlebkgd_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\partgrad_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\quicklaunchheader_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\retebnhov_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\rtebnsel_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\selectedmgradlargertl_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\selectedmgradrtl_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\selectednavbullet_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\selectednav_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\settingsbkg_verdant.jpg" />
+    <Content Include="Site Definition\_themes\Verdant\settingsgraphic_verdant.jpg" />
+    <Content Include="Site Definition\_themes\Verdant\siteactionsmenugrad_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\siteactionsmenuhovergrad_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\sitetitlebkg_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\templatepickerselected_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\templatepickerunselected_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\theme.css" />
+    <Content Include="Site Definition\_themes\Verdant\toolgrad_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\topnavhover_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\topnavselected_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\topnavunselected_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\topshape_verdant.jpg" />
+    <Content Include="Site Definition\_themes\Verdant\Verd1011-65001.css" />
+    <Content Include="Site Definition\_themes\Verdant\VERDANT.INF" />
+    <Content Include="Site Definition\_themes\Verdant\viewheadergrad_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\viewselectorgrad_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\weekbox_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\wpqamh_verdant.gif" />
+    <Content Include="Site Definition\_themes\Verdant\wpqam_verdant.gif" />
+    <Content Include="Site Definition\_themes\themes.inf" />
+    <Content Include="Site Definition\default.aspx">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
+    <Content Include="Site Definition\onet.xml" />
+    <Compile Include="Site Provisioning Handler\SiteProvisioning.cs" />
+    <Compile Include="Site Provisioning Handler\SiteProvisioning.Internal.cs" />
+    <Content Include="Site Provisioning Handler\SiteProvisioning.xml" />
+    <Content Include="Tasks\active.aspx" />
+    <Content Include="Tasks\AllItems.aspx" />
+    <Content Include="Tasks\byowner.aspx" />
+    <Content Include="Tasks\DispForm.aspx" />
+    <Content Include="Tasks\duetoday.aspx" />
+    <Content Include="Tasks\EditForm.aspx" />
+    <Content Include="Tasks\ListDefinition.xml" />
+    <Content Include="Tasks\MyGrTsks.aspx" />
+    <Content Include="Tasks\MyItems.aspx" />
+    <Content Include="Tasks\NewForm.aspx" />
+    <Content Include="Tasks\schema.xml" />
+    <Content Include="Templates\FEATURES\MyDemoMaster\ja-jp\MyDemoMaster.png" />
+    <Content Include="Templates\IMAGES\Contoso logo.jpg" />
+    <Content Include="Templates\IMAGES\matsulogo.gif" />
+    <Content Include="Templates\LAYOUTS\1041\IMAGES\MyDemo.png" />
+    <Content Include="Templates\LAYOUTS\1041\IMAGES\my_demo_logo.gif" />
+    <Content Include="Templates\LAYOUTS\1041\STYLES\MyDemo.css" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent />
+  </PropertyGroup>
+  <ProjectExtensions>
+    <VisualStudio />
+  </ProjectExtensions>
+</Project>
